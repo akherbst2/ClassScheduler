@@ -5,14 +5,16 @@ import java.util.*;
 public class ListOfClasses extends ArrayList<Course>
 {
 
-
    public ListOfClasses(String filename)
    {
       super();
       readFromFile(filename);
    }
    
-   
+   public ListOfClasses() {
+      super();   
+   }
+      
    public void readFromFile(String filename) {
       Scanner scanner = null;
       try 
