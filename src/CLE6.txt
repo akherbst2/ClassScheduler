@@ -1,0 +1,75 @@
+CRN	Course	Title	Type	Cr Hrs	Capacity	Instructor	Days	Begin	End	Location	Exam
+10317	ALS-1004	"Ag, Arts and Society"	L	1	175	CM Wood	T	3:30PM	4:20PM	LITRV 1670	15T
+10617	ARCH-3116	History of Architecture	L	3	120	LM McGuire	T R	11:00AM	12:15PM	HAN 100	11T
+10874	ART-2386	Surv Hist West Art	L	3	300	LB Van Hook	T R	9:30AM	10:45AM	TORG 2150	09T
+20016	ART-3284	Medieval Art and Architecture	L	3	25	JR Jewitt	M W	1:50PM	3:05PM	HEND 353	13M
+12335	CINE-2054	Introduction to Cinema	L	3	300	SR Prince	M W	12:20PM	1:10PM	HAN 100	12M
+				* Additional Times *			M	7:00PM	9:50PM	HAN 100	
+13745	ENGL-1604	Introduction to Poetry	L	3	80	G Voros	T R	2:00PM	3:15PM	MCB 113	14T
+13746	ENGL-1614	Introduction to Short Fiction	L	3	80	LC Skinner	M W F	11:15AM	12:05PM	MCB 129	11M
+13747	ENGL-1614	Introduction to Short Fiction	ONLINE	3	80	RH Canter	(ARR)	----- (ARR) -----		TBA	00X
+18860	ENGL-1614	Introduction to Short Fiction	L	3	80	GS Saffle	T R	9:30AM	10:45AM	MCB 113	09T
+20209	ENGL-1614	Introduction to Short Fiction	L	3	80	LC Skinner	M W F	9:05AM	9:55AM	PAM 2030	09M
+13751	ENGL-1634	Introduction to Shakespeare	L	3	80	L Neilan	M W	2:30PM	3:45PM	MCB 113	14M
+13753	ENGL-1634	Introduction to Shakespeare	L	3	80	L Neilan	T R	12:30PM	1:45PM	MCB 129	12T
+13754	ENGL-1634	Introduction to Shakespeare	L	3	80	J Harvill	M W	4:00PM	5:15PM	MCB 113	16M
+20208	ENGL-1634	Introduction to Shakespeare	L	3	80	L Neilan	T R	8:00AM	9:15AM	GOODW 135	08T
+13770	ENGL-2744	Intro Creative Writ	L	3	22	JT Truscello	M W F	10:10AM	11:00AM	HOLD AUD	10M
+13773	ENGL-2744	Intro Creative Writ	L	3	22	MW Bennett	M W F	1:25PM	2:15PM	DER 3092	13M
+13774	ENGL-2744	Intro Creative Writ	L	3	22	SO Woodworth	M W F	9:05AM	9:55AM	MCB 307	09M
+13775	ENGL-2744	Intro Creative Writ	L	3	22	LM Summe	T R	8:00AM	9:15AM	MCB 218	08T
+13777	ENGL-2744	Intro Creative Writ	L	3	22	A Murphy	T R	9:30AM	10:45AM	MCB 332	09T
+13778	ENGL-2744	Intro Creative Writ	L	3	22	RM Allnutt	T R	12:30PM	1:45PM	MCB 219	12T
+13779	ENGL-2744	Intro Creative Writ	L	3	22	A Murphy	T R	2:00PM	3:15PM	MCB 302	14T
+13780	ENGL-2744	Intro Creative Writ	L	3	22	EL Bloomer	M W F	9:05AM	9:55AM	MCB 332	09M
+13781	ENGL-2744	Intro Creative Writ	L	3	22	EE Dhatt	M W F	1:25PM	2:15PM	PAM 32	13M
+13782	ENGL-2744	Intro Creative Writ	L	3	22	FO Fuentes	T R	11:00AM	12:15PM	MCB 322	11T
+13783	ENGL-2744	Intro Creative Writ	L	3	22	N Salem	T R	9:30AM	10:45AM	HOLD 114	09T
+13784	ENGL-2744	Intro Creative Writ	L	3	22	EL Bloomer	M W F	10:10AM	11:00AM	WHIT 277	10M
+18856	ENGL-2744	Intro Creative Writ	L	3	22	AL Long	M W F	9:05AM	9:55AM	WHIT 349	09M
+14023	FA-2004	Creativity & Aesth Exper	L	1	540	A Weinstein	M	12:20PM	1:10PM	SQUIR COLNL	12M
+14024	FA-2004	Creativity & Aesth Exper	L	1	540	A Weinstein	W	12:20PM	1:10PM	SQUIR COLNL	12W
+14703	HORT-2164	Floral Design	L	3	40	BH Leshyn	M W	11:15AM	12:05PM	GOODW 190	11M
+				* Additional Times *			M	2:30PM	5:20PM	SAUND 102	
+14704	HORT-2164	Floral Design	L	3	40	BH Leshyn	M W	11:15AM	12:05PM	GOODW 190	11M
+				* Additional Times *			M	6:30PM	9:20PM	SAUND 102	
+17028	MUS-1104	Music Appreciation	L	3	232	RC Cole	M W F	12:20PM	1:10PM	SQUIR SALON	12M
+17030	MUS-1104	Music Appreciation	ONLINE	3	125	RC Cole	(ARR)	----- (ARR) -----		TBA	00X
+17031	MUS-1104	Music Appreciation	ONLINE	3	100	A Gillick	(ARR)	----- (ARR) -----		TBA	00X
+17032	MUS-1104	Music Appreciation	ONLINE	3	100	PO Paglialonga	(ARR)	----- (ARR) -----		TBA	00X
+17038	MUS-2116	Survey of Music	L	3	125	JN Paglialonga	M W F	2:30PM	3:20PM	SQUIR SALON	14M
+17084	MUS-3116	Music In America	L	3	200	RC Cole	M W F	10:10AM	11:00AM	SQUIR SALON	10M
+17091	MUS-3314	Instrumental Ensemble Music	L15	1	0	PO Paglialonga	(ARR)	----- (ARR) -----		TBA	00X
+17092	MUS-3314	Instrumental Ensemble Music	L12	1	10	A Gillick	(ARR)	----- (ARR) -----		TBA	00X
+17093	MUS-3314	Instrumental Ensemble Music	L04	1	30	CE Pace	(ARR)	----- (ARR) -----		SQUIR 162	00X
+17094	MUS-3314	Instrumental Ensemble Music	L02	1	25	JA Crafton	M W F	12:20PM	1:10PM	SQUIR 162	12M
+17095	MUS-3314	Instrumental Ensemble Music	L03	1	130	JM Bean	M W F	5:00PM	6:30PM	SQUIR 243	17M
+17097	MUS-3314	Instrumental Ensemble Music	L23	1	25	JA Crafton	M W F	1:25PM	2:15PM	SQUIR 162	13M
+17098	MUS-3314	Instrumental Ensemble Music	L01	1	100	WJ Glazebrook	T R	7:00PM	9:50PM	SQUIR 243	19T
+17099	MUS-3314	Instrumental Ensemble Music	L13	1	25	WE Easter	W	7:00PM	9:00PM	SQUIR 243	19W
+17100	MUS-3314	Instrumental Ensemble Music	L21	1	20	A Weinstein	(ARR)	----- (ARR) -----		TBA	00X
+17101	MUS-3314	Instrumental Ensemble Music	L11	1	20	TE Cowden	(ARR)	----- (ARR) -----		TBA	00X
+17102	MUS-3314	Instrumental Ensemble Music	L22	1	125	DM McKee	T R	5:00PM	6:15PM	SQUIR 243	17T
+17104	MUS-3314	Instrumental Ensemble Music	L08	1	100	J Caldwell	M W F	2:30PM	4:25PM	SQUIR 243	14M
+17105	MUS-3314	Instrumental Ensemble Music	L16	1	175	PK Middleton	M	6:45PM	10:15PM	SQUIR 243	18M
+17106	MUS-3314	Instrumental Ensemble Music	L19	1	40	AJ Stevens	M W F	1:25PM	2:15PM	SQUIR 243	13M
+				* Additional Times *			T R	3:30PM	4:45PM	SQUIR 243	
+17107	MUS-3314	Instrumental Ensemble Music	L06	1	20	JM Bean	T R	7:00PM	8:30PM	SQUIR 162	19T
+17108	MUS-3314	TS:Instrmntl Ensmble Mus L20RK	L20	1	20	I Bukvic	T R	3:30PM	5:30PM	LIBR 121	15T
+17109	MUS-3314	Instrumental Ensemble Music	L10	1	35	WE Easter	(ARR)	----- (ARR) -----		TBA	00X
+17110	MUS-3314	Instrumental Ensemble Music	L07	1	10	JN Wallace	(ARR)	----- (ARR) -----		TBA	00X
+17111	MUS-3314	Instrumental Ensemble Music	L05	1	25	JA Crafton	(ARR)	----- (ARR) -----		TBA	00X
+17112	MUS-3314	Instrumental Ensemble Music	L18	1	100	PK Middleton	(ARR)	----- (ARR) -----		TBA	00X
+19491	MUS-3314	Instrumental Ensemble Music	L26	1	10	W Parrish	(ARR)	----- (ARR) -----		TBA	00X
+19974	MUS-3314	Instrumental Ensemble Music	L27	1	10	RJ Masters	(ARR)	----- (ARR) -----		TBA	00X
+20496	MUS-3314	Instrumental Ensemble Music	L24	1	5	J Caldwell	(ARR)	----- (ARR) -----		TBA	00X
+20497	MUS-3314	Instrumental Ensemble Music	L25	1	3	EL Crone	(ARR)	----- (ARR) -----		TBA	00X
+17114	MUS-3414	Choral Ensemble Music	L06	1	50	DD Bigler	M W F	3:35PM	5:15PM	SQUIR SALON	15M
+17115	MUS-3414	Choral Ensemble Music	L08	1	100	DD Bigler	M W	5:30PM	6:55PM	SQUIR SALON	17M
+17116	MUS-3414	Choral Ensemble Music	L	1	100	NT Baldwin	M R	5:30PM	6:55PM	SQUIR SALON	17
+18418	TA-2014	Introduction to Theatre	L	3	550	SC Rinehart	M W F	11:15AM	12:05PM	SQUIR COLNL	11M
+18419	TA-2024	Introduction to Acting	L	3	20	SC Rinehart	M W	9:30AM	10:45AM	T101 101	09M
+18420	TA-2024	Introduction to Acting	L	3	20	SC Rinehart	T R	3:30PM	4:45PM	T101 201	15T
+20304	TA-2024	Introduction to Acting	L	3	20	AK Halg Bieri	T R	9:30AM	10:45AM	T101 101	09T
+18426	TA-2204	Creative Dance	L	3	30	B Lepczyk	T R	2:00PM	3:15PM	COLS2 214	14T
+18427	TA-2204	Creative Dance	L	3	30	B Lepczyk	T R	3:30PM	4:45PM	COLS2 214	15T

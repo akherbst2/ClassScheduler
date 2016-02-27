@@ -8,31 +8,10 @@ public class BackEndManager {
    //Lists classes by the CLE.
    //If Class does not belong to a CLE, then the CLE of the class will = 0
    private HashMap<Integer, ListOfClasses> classesByCLE;
-   
    private ListOfClasses myClasses;
+   private final int NUM_CLES = 8;
    
-   private int NUM_CLES = 8;
    
-   public void addClass() {
-      //Adds a new class to myClasses   
-   }
-   
-   public void removeClass() {
-      //Removes a class from myClasses
-   }
-   
-   public ListOfClasses getAllClasses() {
-      return allClasses;
-   }
-   
-   public ListOfClasses getClassByDept(String dept) {
-      return classesByDepartment.get(dept);
-   }
-   
-   public ListOfClasses getClassByCLE(Integer cle) {
-      return classesByCLE.get(cle);
-   }
-  
    public BackEndManager() {
       allClasses = new ListOfClasses(/**filename**/);
       
@@ -57,7 +36,29 @@ public class BackEndManager {
       }
      
    }
-     
    
+   
+   
+   
+   public void addClass() {
+      //Adds a new class to myClasses   
+   }
+   
+   public void removeClass() {
+      //Removes a class from myClasses
+   }
+   
+   public ListOfClasses getAllClasses() {
+      return allClasses;
+   }
+   
+   public ListOfClasses getClassByDept(String dept) {
+      return classesByDepartment.get(dept);
+   }
+   
+   public ListOfClasses getClassByCLE(Integer cle) {
+      return classesByCLE.get(cle);
+   }
+  
 
 }

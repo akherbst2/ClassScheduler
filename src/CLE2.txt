@@ -1,0 +1,179 @@
+CRN	Course	Title	Type	Cr Hrs	Capacity	Instructor	Days	Begin	End	Location	Exam
+10237	AFST-1714	Intro African American Studies	ONLINE	3	50	P Rivera-Rideau	(ARR)	----- (ARR) -----		TBA	00X
+10238	AFST-1714	Intro African American Studies	L	3	50	SD Kachipande	T R	11:00AM	12:15PM	TORG 1010	11T
+10239	AFST-1714	Intro African American Studies	ONLINE	3	50	P Seniors	(ARR)	----- (ARR) -----		TBA	00X
+10241	AFST-1814	Intro to African Studies	L	3	40	O Agozino	M W	4:00PM	5:15PM	MCB 218	16M
+10242	AFST-1814	Intro to African Studies	L	3	100	PS Polanah	T R	11:00AM	12:15PM	HOLD AUD	11T
+10302	AINS-1104	Intro American Indian Studies	L	3	40	KR Precoda	T R	2:00PM	3:15PM	RAND 116	14T
+10303	AINS-1104	Intro American Indian Studies	L	3	40	SR Cook	M W F	12:20PM	1:10PM	MCB 134	12M
+10304	AINS-1104	Intro American Indian Studies	L	3	40	AM Stapp	T R	3:30PM	4:45PM	MCB 226	15T
+18944	AINS-1104	Intro American Indian Studies	L	3	40	WT Jamerson	M W	2:30PM	3:45PM	MCB 224	14M
+10511	APS-1704	Intro to Appalachian Studies	L	3	45	JL Laney	T R	12:30PM	1:45PM	RAND 129	12T
+10512	APS-1704	Intro to Appalachian Studies	L	3	40	RP Kauffman	T R	11:00AM	12:15PM	MCB 226	11T
+10514	APS-1704	Intro to Appalachian Studies	L	3	40	RP Kauffman	T R	9:30AM	10:45AM	MCB 226	09T
+19320	APS-1704	Intro to Appalachian Studies	L	3	40	S Parish	M W F	9:05AM	9:55AM	WHIT 257	09M
+20187	APS-1704	Intro to Appalachian Studies	ONLINE	3	40	DE Davis	(ARR)	----- (ARR) -----		TBA	00X
+10617	ARCH-3116	History of Architecture	L	3	120	LM McGuire	T R	11:00AM	12:15PM	HAN 100	11T
+10874	ART-2386	Surv Hist West Art	L	3	300	LB Van Hook	T R	9:30AM	10:45AM	TORG 2150	09T
+20016	ART-3284	Medieval Art and Architecture	L	3	25	JR Jewitt	M W	1:50PM	3:05PM	HEND 353	13M
+12343	CLA-2444	Greek and Roman Myth	L	3	100	CE Steer	M W F	10:10AM	11:00AM	SURGE 104A	10M
+12344	CLA-2444	Greek and Roman Myth	L	3	100	CE Steer	M W F	11:15AM	12:05PM	SURGE 104A	11M
+12345	CLA-2454	Classical Lit in Tran	L	3	30	AS Becker	T R	11:00AM	12:15PM	MAJWM 334	11T
+12426	COMM-2064	The Rhetorical Tradition	L	3	60	BW Howell	M W	2:30PM	3:45PM	GOODW 115	14M
+13745	ENGL-1604	Introduction to Poetry	L	3	80	G Voros	T R	2:00PM	3:15PM	MCB 113	14T
+13746	ENGL-1614	Introduction to Short Fiction	L	3	80	LC Skinner	M W F	11:15AM	12:05PM	MCB 129	11M
+13747	ENGL-1614	Introduction to Short Fiction	ONLINE	3	80	RH Canter	(ARR)	----- (ARR) -----		TBA	00X
+18860	ENGL-1614	Introduction to Short Fiction	L	3	80	GS Saffle	T R	9:30AM	10:45AM	MCB 113	09T
+20209	ENGL-1614	Introduction to Short Fiction	L	3	80	LC Skinner	M W F	9:05AM	9:55AM	PAM 2030	09M
+13749	ENGL-1624	Intro to Detective Fiction	ONLINE	3	80	AF Kinder	(ARR)	----- (ARR) -----		TBA	00X
+20431	ENGL-1624	Intro to Detective Fiction	L	3	80	SM Knapp	M W	2:30PM	3:45PM	PAM 2030	14M
+13751	ENGL-1634	Introduction to Shakespeare	L	3	80	L Neilan	M W	2:30PM	3:45PM	MCB 113	14M
+13753	ENGL-1634	Introduction to Shakespeare	L	3	80	L Neilan	T R	12:30PM	1:45PM	MCB 129	12T
+13754	ENGL-1634	Introduction to Shakespeare	L	3	80	J Harvill	M W	4:00PM	5:15PM	MCB 113	16M
+20208	ENGL-1634	Introduction to Shakespeare	L	3	80	L Neilan	T R	8:00AM	9:15AM	GOODW 135	08T
+13756	ENGL-1644	Intro to World Literature	L	3	80	J Harvill	M W F	11:15AM	12:05PM	MCB 113	11M
+18875	ENGL-1644	Intro to World Literature	L	3	80	J Harvill	M W	2:30PM	3:45PM	MCB 129	14M
+13757	ENGL-1654	Intro to Science Fiction	ONLINE	3	80	HR Patton	(ARR)	----- (ARR) -----		TBA	00X
+13758	ENGL-1654	Intro to Science Fiction	ONLINE	3	80	HR Patton	(ARR)	----- (ARR) -----		TBA	00X
+20190	ENGL-1654	Intro to Science Fiction	L	3	80	HR Patton	T R	8:00AM	9:15AM	GYM 124	08T
+13759	ENGL-2444	Greek and Roman Myth	L	3	100	CE Steer	M W F	10:10AM	11:00AM	SURGE 104A	10M
+13760	ENGL-2444	Greek and Roman Myth	L	3	100	CE Steer	M W F	11:15AM	12:05PM	SURGE 104A	11M
+13796	ENGL-3534	Literature and Ecology	L	3	22	MD Moore	T R	11:00AM	12:15PM	MCB 209	11T
+18898	ENGL-3644	The Postcolonial Novel	L	3	28	GE Chandler-Smith	T R	11:00AM	12:15PM	MCB 210	11T
+13845	ENGL-4166	Shakespeare	L	3	35	DH Radcliffe	M W	4:00PM	5:15PM	MCB 238	16M
+13846	ENGL-4166	Shakespeare	L	3	35	K Swenson	T R	9:30AM	10:45AM	MCB 304	09T
+14141	FOR-2554	Nature and American Values	L	3	128	RB Hull	T R	12:30PM	1:45PM	TORG 3100	12T
+19454	FR-3206	French Culture & Civ	L	3	25	M Gueye	T R	12:30PM	1:45PM	MCB 328	12T
+14198	FR-3306	Survey of French Literature	L	3	27	S Mishra	M W F	10:10AM	11:00AM	RAND 121	10M
+19514	GER-3305	Survey of German Literature	L	3	20	DL Stoudt	M W	5:30PM	6:45PM	WAL 244	17M
+18983	HIST-1025	Intro European Civ	L	3	40	FJ Baumgartner	T R	11:00AM	12:15PM	SEITZ 300	11T
+20252	HIST-1025	Intro European Civ	L	3	34	FJ Baumgartner	T R	2:00PM	3:15PM	SEITZ 207	14T
+18951	HIST-1026	Intro European Civ	L	3	28	AM Hight	M W F	11:15AM	12:05PM	MCB 212	11M
+18952	HIST-1026	Intro European Civ	L	3	40	AM Hight	M W F	1:25PM	2:10PM	WLH 345	13M
+14566	HIST-2054	Engineering Cultures	ONLINE	3	40	P Shih	(ARR)	----- (ARR) -----		TBA	00X
+14567	HIST-2054	Engineering Cultures	ONLINE	3	40	CR de Souza	(ARR)	----- (ARR) -----		TBA	00X
+14568	HIST-2054	Engineering Cultures	ONLINE	3	40	BE Whiteley	(ARR)	----- (ARR) -----		TBA	00X
+20443	HIST-2054	Engineering Cultures	L	3	40	AK Phillips	M W	2:30PM	3:45PM	GBJ 104	14M
+14800	HUM-1324	HUM: Mod World	L	3	35	CJ Roberts	T R	2:00PM	3:15PM	MCB 233	14T
+14801	HUM-1324	HUM: Mod World	L	3	35	CJ Roberts	M W	2:30PM	3:45PM	MCB 219	14M
+19006	HUM-1324	HUM: Mod World	L	3	40	GC Van Beuren	T R	9:30AM	10:45AM	MCB 232	09T
+14802	HUM-1604	Intro Hum and Arts	L	3	40	CJ Roberts	M W	4:00PM	5:15PM	MCB 223	16M
+14803	HUM-1604	Intro Hum and Arts	L	3	40	CJ Roberts	T R	3:30PM	4:45PM	MCB 223	15T
+14806	HUM-1704	Intro to Appalachian Studies	L	3	40	RP Kauffman	T R	11:00AM	12:15PM	MCB 226	11T
+14807	HUM-1704	Intro to Appalachian Studies	L	3	40	RP Kauffman	T R	9:30AM	10:45AM	MCB 226	09T
+14808	HUM-1704	Intro to Appalachian Studies	L	3	45	JL Laney	T R	12:30PM	1:45PM	RAND 129	12T
+19321	HUM-1704	Intro to Appalachian Studies	L	3	40	S Parish	M W F	9:05AM	9:55AM	WHIT 257	09M
+20188	HUM-1704	Intro to Appalachian Studies	ONLINE	3	40	DE Davis	(ARR)	----- (ARR) -----		TBA	00X
+15109	JUD-2134	Jewish Hist Cult Her	L	3	40	RB Gross	T R	11:00AM	12:15PM	MCB 224	11T
+18813	LAR-4034	Evol of the Am Land	L	3	40	TL Clements	T	6:30PM	9:30PM	BUR 120A	18T
+20418	LDRS-1015	Exploring Citizen Leadership	ONLINE	3	60	DA Cletzer	(ARR)	----- (ARR) -----		TBA	00X
+17025	MUS-1005	Theory/Fundamentals	L	3	65	A Gillick	T R	12:30PM	1:45PM	SQUIR 243	12T
+17026	MUS-1005	Theory/Fundamentals	L	3	65	WE Easter	T R	9:30AM	10:45AM	SQUIR 243	09T
+17027	MUS-1006	Theory/Fundamentals	L	3	50	K Delk	T R	11:00AM	12:15PM	SQUIR 243	11T
+17028	MUS-1104	Music Appreciation	L	3	232	RC Cole	M W F	12:20PM	1:10PM	SQUIR SALON	12M
+17030	MUS-1104	Music Appreciation	ONLINE	3	125	RC Cole	(ARR)	----- (ARR) -----		TBA	00X
+17031	MUS-1104	Music Appreciation	ONLINE	3	100	A Gillick	(ARR)	----- (ARR) -----		TBA	00X
+17032	MUS-1104	Music Appreciation	ONLINE	3	100	PO Paglialonga	(ARR)	----- (ARR) -----		TBA	00X
+17038	MUS-2116	Survey of Music	L	3	125	JN Paglialonga	M W F	2:30PM	3:20PM	SQUIR SALON	14M
+17084	MUS-3116	Music In America	L	3	200	RC Cole	M W F	10:10AM	11:00AM	SQUIR SALON	10M
+17385	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			F	1:25PM	2:15PM	MCB 202	
+17386	PHIL-1204	Knowledge and Reality	L	3	35	N Rockwood	T R	8:00AM	9:15AM	TORG 1040	08T
+17388	PHIL-1204	Knowledge and Reality	L	3	35	CR de Souza	M W F	11:15AM	12:05PM	PAM 1010	11M
+17389	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			F	9:05AM	9:55AM	TORG 1080	
+17390	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			F	10:10AM	11:00AM	WMS 209	
+17391	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			W	5:45PM	6:35PM	TORG 1080	
+17392	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			F	12:20PM	1:10PM	TORG 1080	
+17393	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			W	4:40PM	5:30PM	TORG 1020	
+17394	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			R	5:00PM	5:50PM	TORG 1010	
+17395	PHIL-1204	Knowledge and Reality	L	3	35	T Parent	T R	2:00PM	3:15PM	MCB 218	14T
+17397	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			F	12:20PM	1:10PM	MCB 202	
+17398	PHIL-1204	Knowledge and Reality	L	3	25	JC Klagge	M W	12:20PM	1:10PM	TORG 2150	12M
+				* Additional Times *			R	6:30PM	7:20PM	TORG 1080	
+17399	PHIL-1304	Morality and Justice	L	3	25	M Moehler	M W	1:25PM	2:15PM	TORG 2150	13M
+				* Additional Times *			F	1:25PM	2:15PM	TORG 1080	
+17400	PHIL-1304	Morality and Justice	L	3	25	M Moehler	M W	1:25PM	2:15PM	TORG 2150	13M
+				* Additional Times *			F	11:15AM	12:05PM	TORG 1080	
+17401	PHIL-1304	Morality and Justice	L	3	35	CG Parker	M W F	9:05AM	9:55AM	TORG 1040	09M
+17402	PHIL-1304	Morality and Justice	L	3	25	M Moehler	M W	1:25PM	2:15PM	TORG 2150	13M
+				* Additional Times *			F	8:00AM	8:50AM	TORG 1080	
+17403	PHIL-1304	Morality and Justice	L	3	25	M Moehler	M W	1:25PM	2:15PM	TORG 2150	13M
+				* Additional Times *			F	10:10AM	11:00AM	MCB 202	
+17404	PHIL-1304	Morality and Justice	L	3	35	G Novack	T R	9:30AM	10:45AM	GOODW 244	09T
+17405	PHIL-1304	Morality and Justice	L	3	25	M Moehler	M W	1:25PM	2:15PM	TORG 2150	13M
+				* Additional Times *			W	5:45PM	6:35PM	TORG 1020	
+17406	PHIL-1304	Morality and Justice	L	3	25	M Moehler	M W	1:25PM	2:15PM	TORG 2150	13M
+				* Additional Times *			W	4:40PM	5:30PM	TORG 1080	
+17413	PHIL-2116	Ancient/Medieval Phil	L	3	72	EP Lewis	T R	12:30PM	1:45PM	GOODW 145	12T
+17414	PHIL-2125	History of Modern Philosophy	L	3	70	N Rockwood	T R	2:00PM	3:15PM	GOODW 125	14T
+17415	PHIL-2304	Global Ethics	L	3	40	HR Wildman Short	M W	2:30PM	3:45PM	WLH 345	14M
+17416	PHIL-2304	Global Ethics	L	3	40	C D'amato	M W	5:30PM	6:45PM	TORG 1040	17M
+17417	PHIL-2304	Global Ethics	L	3	40	HR Wildman Short	T R	12:30PM	1:45PM	PAM 1008	12T
+17418	PHIL-2304	Global Ethics	L	3	40	HR Wildman Short	M W	4:00PM	5:15PM	MCB 230	16M
+17419	PHIL-2304	Global Ethics	L	3	40	MR Schwartz	M W F	10:10AM	11:00AM	PAM 3001	10M
+17420	PHIL-2304	Global Ethics	L	3	40	MS Zarella	T R	11:00AM	12:15PM	MCB 318	11T
+17421	PHIL-2304	Global Ethics	L	3	35	DM Jackson	T R	12:30PM	1:45PM	MAJWM 434	12T
+17422	PHIL-2304	Global Ethics	ONLINE	3	100	GB Mcgee	(ARR)	----- (ARR) -----		TBA	00X
+17428	PHIL-3015	Political Theory	L	3	37	B Koch	M W	2:30PM	3:45PM	AA 109	14M
+17429	PHIL-3016	Political Theory	L	3	40	M Khreiche	T R	9:30AM	10:45AM	RAND 220	09T
+20338	PHIL-3016	Political Theory	ONLINE	3	40	RE Artrip	(ARR)	----- (ARR) -----		TBA	00X
+19927	PHIL-3454	Philosophy of Religion	L	3	70	EP Lewis	T R	11:00AM	12:15PM	GOODW 145	11T
+17442	PHIL-4214	Metaphysics	L	3	20	T Parent	T R	9:30AM	10:45AM	GOODW 241	09T
+19949	PHIL-4224	Epistemology	L	3	25	G Novack	M W F	10:10AM	11:00AM	RAND 206	10M
+17443	PHIL-4334	Jurisprudence	L	3	30	D Lind	M W	2:30PM	3:45PM	GOODW 244	14M
+17916	PSCI-3015	Political Theory	L	3	37	B Koch	M W	2:30PM	3:45PM	AA 109	14M
+17917	PSCI-3016	Political Theory	L	3	40	M Khreiche	T R	9:30AM	10:45AM	RAND 220	09T
+20337	PSCI-3016	Political Theory	ONLINE	3	40	RE Artrip	(ARR)	----- (ARR) -----		TBA	00X
+18993	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	RS Soni	M W F	10:10AM	11:00AM	RAND 220	10M
+18994	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	RS Soni	M W F	1:25PM	2:15PM	RAND 220	13M
+18995	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	KH Cross	T R	2:00PM	3:15PM	RAND 121	14T
+18996	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	82	BM Britt	T R	11:00AM	12:15PM	PAM 2030	11T
+20023	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	M Brandl	M W	2:30PM	3:45PM	RAND 220	14M
+18100	RLCL-1034	Religion and the Modern World	L	3	40	ZW Dresser	M W F	11:15AM	12:05PM	WMS 320	11M
+18997	RLCL-1034	Religion and the Modern World	L	3	40	ZW Dresser	M W F	10:10AM	11:00AM	RAND 320	10M
+18101	RLCL-1034H	Religion and the Modern World	L	3	32	A Abeysekara	T R	11:00AM	12:15PM	LANE 132	11T
+18102	RLCL-1044	Religious Ethics	L	3	35	RS Soni	M W	4:00PM	5:15PM	DER 1084	16M
+18104	RLCL-1214	Medieval	L	3	30	MR Gabriele	T R	3:30PM	4:45PM	AJ E 2323	15T
+20348	RLCL-1214	Medieval	L	3	40	JR Jewitt	M W	4:00PM	5:15PM	DER 1090	16M
+20062	RLCL-1214H	Medieval	L	3	10	MR Gabriele	T R	3:30PM	4:45PM	AJ E 2323	15T
+18106	RLCL-1904	Religion and Culture In Asia	L	3	40	PL Schmitthenner	M W F	1:25PM	2:15PM	WMS 334	13M
+18107	RLCL-1904	Religion and Culture In Asia	L	3	40	KK Dhillon	M W	4:00PM	5:15PM	HUTCH 409	16M
+18109	RLCL-2124	Religion in American Life	L	3	35	ZW Dresser	T R	11:00AM	12:15PM	MCB 232	11T
+18110	RLCL-2134	Jewish Hist Cult her	L	3	40	RB Gross	T R	11:00AM	12:15PM	MCB 224	11T
+18111	RLCL-2424	New Testament	L	3	60	ES Malbon	T R	9:30AM	10:45AM	TORG 1060	09T
+19319	RLCL-2424H	New Testament	L	3	10	ES Malbon	T R	9:30AM	10:45AM	TORG 1060	09T
+18112	RLCL-2444	Greek and Roman Mythology	L	3	100	CE Steer	M W F	11:15AM	12:05PM	SURGE 104A	11M
+18113	RLCL-2444	Greek and Roman Mythology	L	3	100	CE Steer	M W F	10:10AM	11:00AM	SURGE 104A	10M
+19002	RLCL-3024	Religion and Literature	L	3	25	Z Ni	T R	12:30PM	1:45PM	MCB 212	12T
+18122	RLCL-3224	Religions of China and Japan	L	3	35	Z Ni	T R	3:30PM	4:45PM	HUTCH 409	15T
+18193	SOC-2024	Minority Group Relations	L	3	50	SM McGlamery	T R	9:30AM	10:45AM	SURGE 103A	09T
+18263	SPAN-3414	Modern Penin Culture & Lit	L	3	17	JA Folkart	T R	9:30AM	10:45AM	RAND 206A	09T
+19218	SPAN-3414	Modern Penin Culture & Lit	L	3	15	JA Folkart	T R	11:00AM	12:15PM	MCB 666	11T
+18375	STS-1504	Humanities Science Environment	L	3	25	EC Patzig	T R	9:30AM	10:45AM	LANE 134	09T
+18376	STS-1504	Humanities Science Environment	L	3	25	EC Patzig	T R	11:00AM	12:15PM	LANE 134	11T
+18377	STS-2054	Engineering Cultures	L	3	40	AK Phillips	M W	2:30PM	3:45PM	GBJ 104	14M
+18378	STS-2054	Engineering Cultures	ONLINE	3	40	CR de Souza	(ARR)	----- (ARR) -----		TBA	00X
+18379	STS-2054	Engineering Cultures	ONLINE	3	40	P Shih	(ARR)	----- (ARR) -----		TBA	00X
+18380	STS-2054	Engineering Cultures	ONLINE	3	40	BE Whiteley	(ARR)	----- (ARR) -----		TBA	00X
+18384	STS-3105	Sci & Techn in Modern Society	L	3	40	MR Goodrum	M W	4:00PM	5:15PM	PAT 215	16M
+18389	STS-4304	"Monsters, zombies, & cyborgs"	L	3	40	R Hester	M W F	10:10AM	11:00AM	RAND 116	10M
+18418	TA-2014	Introduction to Theatre	L	3	550	SC Rinehart	M W F	11:15AM	12:05PM	SQUIR COLNL	11M
+18419	TA-2024	Introduction to Acting	L	3	20	SC Rinehart	M W	9:30AM	10:45AM	T101 101	09M
+18420	TA-2024	Introduction to Acting	L	3	20	SC Rinehart	T R	3:30PM	4:45PM	T101 201	15T
+20304	TA-2024	Introduction to Acting	L	3	20	AK Halg Bieri	T R	9:30AM	10:45AM	T101 101	09T
+18770	WGS-1824	Intro Women's & Gender Studies	L	3	40	C Labuski	T R	9:30AM	10:45AM	RAND 222	09T
+18771	WGS-1824	Intro Women's & Gender Studies	L	3	40	M Sharma	M W F	8:00AM	8:50AM	MCB 134	08M
+18772	WGS-1824	Intro Women's & Gender Studies	L	3	40	M Sharma	M W F	9:05AM	9:55AM	MCB 134	09M
+18773	WGS-1824	Intro Women's & Gender Studies	L	3	40	B Smith	M W	2:30PM	3:45PM	MCB 308	14M
+18774	WGS-1824	Intro Women's & Gender Studies	L	3	40	M Sharma	M W F	10:10AM	11:00AM	MCB 126	10M
+18917	WGS-1824	Intro Women's & Gender Studies	ONLINE	3	40	M Sharma	(ARR)	----- (ARR) -----		TBA	00X
+18918	WGS-1824	Intro Women's & Gender Studies	L	3	40	SM Elber	T R	12:30PM	1:45PM	MCB 224	12T
+18775	WGS-2224	Women and Creativity	L	3	25	LJ Gillman	M W	4:00PM	5:15PM	RAND 206A	16M
+18776	WGS-2254	Feminist Activism	L	3	40	S Samanta	T R	12:30PM	1:45PM	MCB 226	12T

@@ -1,0 +1,164 @@
+CRN	Course	Title	Type	Cr Hrs	Capacity	Instructor	Days	Begin	End	Location	Exam
+10060	AAEC-1005	Econ Food Fiber Sys	L	3	245	SK Stephenson	M W F	12:20PM	1:10PM	MCB 100	12M
+10061	AAEC-1006	Econ Food Fiber Syst	L	3	264	MJ Ellerbrock	M W F	9:05AM	9:55AM	LITRV 1670	09M
+10266	AHRM-2404	Consumer Rights	L	3	150	PJ Fisher	T R	9:30AM	10:45AM	LITRV 1670	09T
+12371	COMM-1014	Intro to Comm Studies	L	3	275	BW Howell	T R	2:00PM	3:15PM	TORG 2150	14T
+13178	ECON-2005	Principles of Economics	L	3	40	AR Oryoie	M W F	1:25PM	2:15PM	PAM 1008	13M
+13179	ECON-2005	Principles of Economics	L	3	530	SC Trost	M W F	11:15AM	12:05PM	GLCDB 64	11M
+13180	ECON-2005	Principles of Economics	L	3	530	SC Trost	M W F	12:20PM	1:10PM	GLCDB 64	12M
+13182	ECON-2005	Principles of Economics	L	3	113	A Vahidmanesh	M W F	9:05AM	9:55AM	PAM 30	09M
+13183	ECON-2006	Principles of Economics	L	3	115	SM Asif Ehsan	M W F	12:20PM	1:10PM	ROB 210	12M
+13184	ECON-2006	Principles of Economics	L	3	108	GH Gebremariam	M W F	10:10AM	11:00AM	PAM 30	10M
+13185	ECON-2006	Principles of Economics	L	3	40	A Mohebbi Ashtiani	M W F	10:10AM	11:00AM	PAM 3004	10M
+13186	ECON-2006	Principles of Economics	L	3	110	GH Gebremariam	M W F	12:20PM	1:10PM	PAM 30	12M
+13187	ECON-2006	Principles of Economics	L	3	36	T Yang	M W F	9:05AM	9:55AM	PAM 1008	09M
+13188	ECON-2006	Principles of Economics	L	3	110	GH Gebremariam	M W F	11:15AM	12:05PM	PAM 30	11M
+13189	ECON-2006	Principles of Economics	L	3	40	T Matje	M W F	1:25PM	2:15PM	SURGE 104A	13M
+13190	ECON-2006	Principles of Economics	L	3	108	MH Mostafavi Dehzooei	M W F	1:25PM	2:15PM	PAM 30	13M
+13191	ECON-2006	Principles of Economics	L	3	110	ES Perdue	M W F	8:00AM	8:50AM	PAM 30	08M
+19047	EDCI-3024	Issues in American Schooling	L	3	25	JT Harman	T R	11:00AM	12:15PM	GYM 400	11T
+14252	GEOG-1014	World Regions	ONLINE	3	2250	JD Boyer	(ARR)	----- (ARR) -----		TBA	00X
+14259	GEOG-2054	Introduction to World Politics	L	3	100	CI Thomas	M W F	9:05AM	9:55AM	SURGE 104D	09M
+20223	GEOG-2054	Introduction to World Politics	L	3	40	RC Briggs	T R	3:30PM	4:45PM	HUTCH 209	15T
+14474	HD-1004	Human Development I	L	3	125	VR Fu	M W	2:30PM	3:45PM	ENGEL 223	14M
+14476	HD-1004	Human Development I	L	3	125	MF Komelski	M W	4:00PM	5:15PM	ENGEL 223	16M
+14478	HD-1004	Human Development I	ONLINE	3	80	Y Keskin	(ARR)	----- (ARR) -----		TBA	00X
+18790	HD-1004	Human Development I	L	3	80	C Shivers	T R	9:30AM	10:45AM	GYM 124	09T
+18791	HD-1004	Human Development I	L	3	49	K Krizova	T R	12:30PM	1:45PM	WAL 234	12T
+18832	HD-1004	Human Development I	L	3	49	RT Tsokodayi	T R	2:00PM	3:15PM	WAL 244	14T
+18936	HD-1004	Human Development I	L	3	49	DF Riger	M W F	11:15AM	12:05PM	WAL 244	11M
+19196	HD-1004	Human Development I	ONLINE	3	80	KJ Kim	(ARR)	----- (ARR) -----		TBA	00X
+19935	HD-1004	Human Development I	ONLINE	3	80	MF Komelski	(ARR)	----- (ARR) -----		TBA	00X
+14480	HD-2004	Human Development II	L	3	49	AM Ogletree	T R	3:30PM	4:45PM	LITRV 1860	15T
+14481	HD-2004	Human Development II	ONLINE	3	80	S Kim	(ARR)	----- (ARR) -----		TBA	00X
+14482	HD-2304	Family Relationships	L	3	80	RM Earl	T R	11:00AM	12:15PM	GYM 124	11T
+14484	HD-2304	Family Relationships	L	3	49	JL Stephen Premo	T R	9:30AM	10:45AM	SURGE 118B	09T
+14552	HIST-1115	History of the United States	L	3	40	TH Edmondson	M W	4:00PM	5:15PM	MCB 240	16M
+14553	HIST-1115	History of the United States	L	3	40	NL Shumsky	M W F	11:15AM	12:05PM	MAJWM 334	11M
+18957	HIST-1115	History of the United States	L	3	40	RV Shelton	M W F	1:25PM	2:15PM	WLH 335	13M
+14555	HIST-1116	History of the United States	L	3	41	EJ Gitre	T R	11:00AM	12:15PM	WLH 350	11T
+18953	HIST-1116	History of the United States	L	3	40	NL Shumsky	M W F	9:05AM	9:55AM	MAJWM 334	09M
+18988	HIST-1116	History of the United States	L	3	40	LC Winling	T R	9:30AM	10:45AM	MAJWM 334	09T
+19758	HIST-1215	Intro to World History	L	3	40	DJ Felt	T R	12:30PM	1:45PM	WLH 345	12T
+14759	HTM-3484	Socio-Cult Impacts of Tourism	L	3	45	WG Knollenberg	T R	11:00AM	12:15PM	DER 1076	11T
+19985	IS-1004	Nations and Nationalities	L	3	100	CI Thomas	M W	2:30PM	3:45PM	PAM 30	14M
+20197	IS-1004	Nations and Nationalities	L	3	40	TA Clott	T R	5:00PM	6:15PM	RAND 331	17T
+14859	IS-2054	Introduction to World Politics	L	3	100	CI Thomas	M W F	9:05AM	9:55AM	SURGE 104D	09M
+20222	IS-2054	Introduction to World Politics	L	3	40	RC Briggs	T R	3:30PM	4:45PM	HUTCH 209	15T
+14861	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	AA 109	
+14862	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	AA 109	
+14863	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	AA 109	
+14864	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	ROB 112	
+14865	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 219	
+14866	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MAJWM 434	
+14867	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	PAT 305	
+14869	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 322	
+14870	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	GYM 126	
+15195	LDRS-1016	Exploring Citizen Leadership	L	3	30	MW Kuhn	M W	1:00PM	2:15PM	PY 140	13M
+15196	LDRS-1016	Exploring Citizen Leadership	L	3	30	MW Kuhn	M W	3:30PM	4:45PM	PY 140	15M
+15197	LDRS-1016	Exploring Citizen Leadership	L	3	50	CL Cotrupi	M W	4:00PM	5:15PM	LITRV 1760	16M
+15198	LDRS-1016	Exploring Citizen Leadership	L	3	60	CR Mandala	T R	3:30PM	4:45PM	PAYNE 1003	15T
+15199	LDRS-1016	Exploring Citizen Leadership	L	3	30	NA Clegorne	T R	11:00AM	12:15PM	PY 140	11T
+15200	LDRS-1016	Exploring Citizen Leadership	L	3	30	NA Clegorne	T R	9:30AM	10:45AM	PY 140	09T
+20366	LDRS-1016	Exploring Citizen Leadership	L	3	0	NA Clegorne	(ARR)	----- (ARR) -----		TBA	00X
+17890	PSCI-1004	Nations and Nationalities	L	3	100	CI Thomas	M W	2:30PM	3:45PM	PAM 30	14M
+20196	PSCI-1004	Nations and Nationalities	L	3	40	TA Clott	T R	5:00PM	6:15PM	RAND 331	17T
+17891	PSCI-1014	US Gov & Politics	L	3	40	AT Stubberfield	M W	4:00PM	5:15PM	PAM 2030	16M
+20212	PSCI-1014	US Gov & Politics	L	3	40	A Bernal	T R	5:00PM	6:15PM	MCB 134	17T
+20425	PSCI-1014	US Gov & Politics	L	3	40	BF Louis	M W F	11:15AM	12:05PM	MCB 232	11M
+17893	PSCI-1024	Comp Gov & Politics	L	3	360	CL Taylor	T R	2:00PM	3:15PM	SQUIR COLNL	14T
+17901	PSCI-2054	Introduction to World Politics	L	3	100	CI Thomas	M W F	9:05AM	9:55AM	SURGE 104D	09M
+20221	PSCI-2054	Introduction to World Politics	L	3	40	RC Briggs	T R	3:30PM	4:45PM	HUTCH 209	15T
+17902	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	GYM 126	
+17903	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 322	
+17904	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 219	
+17905	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	AA 109	
+17906	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MAJWM 434	
+17908	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	PAT 305	
+17909	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	AA 109	
+17910	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	ROB 112	
+17911	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	AA 109	
+17996	PSYC-1004	Introductory Psychology	C	0	40	JA Gladfelter	M	5:00PM	5:50PM	WMS 134	CTE
+17997	PSYC-1004	Introductory Psychology	C	0	40	S Yibass	M	11:15AM	12:05PM	WMS 134	CTE
+17998	PSYC-1004	Introductory Psychology	C	0	40	AE Brieant	R	12:30PM	1:20PM	WMS 134	CTE
+17999	PSYC-1004	Introductory Psychology	C	0	40	BB DeVore	R	3:00PM	3:50PM	WMS 134	CTE
+18000	PSYC-1004	Introductory Psychology	C	0	40	JA Gladfelter	T	12:30PM	1:20PM	WMS 134	CTE
+18001	PSYC-1004	Introductory Psychology	C	0	40	R Liu	T	4:00PM	4:50PM	WMS 134	CTE
+18002	PSYC-1004	Introductory Psychology	C	0	40	R Liu	T	3:00PM	3:50PM	WMS 134	CTE
+18003	PSYC-1004	Introductory Psychology	C	0	40	AE Brieant	R	2:00PM	2:50PM	WMS 134	CTE
+18004	PSYC-1004	Introductory Psychology	C	0	40	AP Ross	W	9:05AM	9:55AM	WMS 134	CTE
+18005	PSYC-1004	Introductory Psychology	C	0	40	E Hernandez	W	1:25PM	2:15PM	WMS 134	CTE
+18006	PSYC-1004	Introductory Psychology	C	0	40	BB DeVore	W	2:30PM	3:20PM	WMS 134	CTE
+18008	PSYC-1004	Introductory Psychology	C	0	40	LN Kim	M	1:25PM	2:15PM	WMS 134	CTE
+18009	PSYC-1004	Introductory Psychology	C	0	40	AP Ross	T	2:00PM	2:50PM	WMS 134	CTE
+18010	PSYC-1004	Introductory Psychology	C	0	40	AM Huskey	F	9:05AM	9:55AM	WMS 134	CTE
+18011	PSYC-1004	Introductory Psychology	C	0	40	M Lewis	F	10:10AM	11:00AM	WMS 134	CTE
+18012	PSYC-1004	Introductory Psychology	C	0	40	S Yibass	M	9:05AM	9:55AM	WMS 134	CTE
+18013	PSYC-1004	Introductory Psychology	C	0	40	M Lewis	W	12:20PM	1:10PM	WMS 134	CTE
+18014	PSYC-1004	Introductory Psychology	C	0	40	P Muralidharan	W	10:10AM	11:00AM	WMS 134	CTE
+18015	PSYC-1004	Introductory Psychology	C	0	40	LN Kim	M	2:30PM	3:20PM	WMS 134	CTE
+18016	PSYC-1004	Introductory Psychology	L	3	400	DP Spangler	T R	12:30PM	1:20PM	SQUIR COLNL	CTE
+18017	PSYC-1004	Introductory Psychology	L	3	400	DP Spangler	M W	11:15AM	12:05PM	MCB 100	CTE
+18019	PSYC-2034	Developmental Psychology	L	3	60	PK Harrison	T R	9:30AM	10:45AM	WMS 220	09T
+18021	PSYC-2034	Developmental Psychology	L	3	60	PK Harrison	T R	12:30PM	1:45PM	WMS 220	12T
+18022	PSYC-2034	Developmental Psychology	L	3	60	TL Blankenship	M W F	10:10AM	11:00AM	WMS 220	10M
+19549	PSYC-2034	Developmental Psychology	L	3	48	LA Mills-Smith	M W F	1:25PM	2:15PM	WMS 320	13M
+18023	PSYC-2044	Psychology of Learning	L	3	60	JM Wang	T R	2:00PM	3:15PM	WMS 220	14T
+18024	PSYC-2044	Psychology of Learning	L	3	48	X Yang	M W F	12:20PM	1:10PM	WMS 334	12M
+18025	PSYC-2054	Psychology of Personality	L	3	48	J Germana	T R	9:30AM	10:45AM	WMS 134	09T
+18026	PSYC-2054	Psychology of Personality	L	3	48	RJ Harvey	M W F	10:10AM	11:00AM	WMS 320	10M
+18027	PSYC-2054	Psychology of Personality	L	3	48	J Germana	T R	2:00PM	3:15PM	WMS 320	14T
+18028	PSYC-2064	Nervous Systems & Behavior	L	3	60	RA Diana	T R	9:30AM	10:45AM	WMS 120	09T
+18029	PSYC-2064	Nervous Systems & Behavior	L	3	60	SM Roldan	M W F	9:05AM	9:55AM	WMS 220	09M
+18030	PSYC-2064	Nervous Systems & Behavior	L	3	48	M Ghane-Ezabadi	T R	8:00AM	9:15AM	WMS 220	08T
+18031	PSYC-2084	Social Psychology	L	3	60	N Arun	M W	4:00PM	5:15PM	WMS 120	16M
+18033	PSYC-2084	Social Psychology	L	3	60	M Oneill	M W F	12:20PM	1:10PM	WMS 220	12M
+19553	PSYC-2084	Social Psychology	L	3	60	MD Roediger	M W F	11:15AM	12:05PM	WMS 220	11M
+18042	PSYC-3014	Abnormal Psychology	L	3	48	JA Richey	T R	9:30AM	10:45AM	WMS 320	09T
+18044	PSYC-3014	Abnormal Psychology	L	3	60	AJ Smith	T R	2:00PM	3:15PM	WMS 120	14T
+18045	PSYC-3014	Abnormal Psychology	L	3	60	KA Turner	M W F	12:20PM	1:10PM	WMS 120	12M
+18046	PSYC-3014	Abnormal Psychology	L	3	60	AE Halliburton	M W F	11:15AM	12:05PM	WMS 120	11M
+18047	PSYC-3014	Abnormal Psychology	L	3	60	AD Valdespino	T R	4:00PM	5:15PM	WMS 220	16T
+18115	RLCL-2514	Asian American Experience	L	3	40	S Samanta	T R	11:00AM	12:15PM	MCB 134	11T
+18181	SOC-1004	Introductory Sociology	L	3	53	DW Alexander	M W	4:00PM	5:15PM	SURGE 109	16M
+18184	SOC-1004	Introductory Sociology	L	3	75	MD Hughes	M W	2:30PM	3:45PM	WLH 340	14M
+18185	SOC-1004	Introductory Sociology	L	3	500	NM King	T R	2:00PM	3:15PM	GLCDB 64	14T
+18186	SOC-1004	Introductory Sociology	ONLINE	3	50	H Zhu	(ARR)	----- (ARR) -----		TBA	00X
+18187	SOC-1004	Introductory Sociology	ONLINE	3	35	RD Wood	(ARR)	----- (ARR) -----		TBA	00X
+18188	SOC-1004	Introductory Sociology	ONLINE	3	50	H Zhu	(ARR)	----- (ARR) -----		TBA	00X
+19560	SOC-1004	Introductory Sociology	ONLINE	3	75	MF McLeese	(ARR)	----- (ARR) -----		TBA	00X
+19561	SOC-1004	Introductory Sociology	ONLINE	3	75	MF McLeese	(ARR)	----- (ARR) -----		TBA	00X
+18939	SOC-1014	Intro Social Anthrop	L	3	60	NM Copeland	T R	3:30PM	4:45PM	SURGE 109	15T
+18189	SOC-2004	Social Problems	L	3	55	DW Wimberley	T R	11:00AM	12:15PM	HOLD 110	11T
+18191	SOC-2004	Social Problems	ONLINE	3	40	KL Richardson	(ARR)	----- (ARR) -----		TBA	00X
+19791	SOC-2004	Social Problems	L	3	35	TM Calasanti	M W	4:00PM	5:15PM	MCB 204	16M
+18192	SOC-2014	"Dating, Marriage and Divorce"	L	3	70	KJ Kiecolt	M W F	9:05AM	9:55AM	SURGE 103A	09M
+18193	SOC-2024	Minority Group Relations	L	3	50	SM McGlamery	T R	9:30AM	10:45AM	SURGE 103A	09T
+18195	SOC-2304	Individual In Society	L	3	60	KJ Kiecolt	M W F	11:15AM	12:05PM	RAND 331	11M
+18197	SOC-2514	Asian American Experience	L	3	40	S Samanta	T R	11:00AM	12:15PM	MCB 134	11T
+18200	SOC-3004	Social Inequality	L	3	65	ET Graves	M W F	11:15AM	12:05PM	SURGE 103A	11M
+18978	SOC-3504	Population Trends and Issues	ONLINE	3	60	TD Fuller	(ARR)	----- (ARR) -----		TBA	00X
+18373	STL-2304	Foundations Intellectual Ppty	L	3	43	ML Mayberry	T R	12:30PM	1:45PM	HUTCH 310	12T
+19030	STS-3334	Energy and Society	L	3	40	D Breslau	T R	9:30AM	10:45AM	RAND 116	09T
+18386	STS-3706	History of Science	L	3	40	BJ Reeves	T R	11:00AM	12:15PM	MCB 230	11T
+18505	UAP-1024	Urban Public Issues	L	3	110	CL Montgomery	M W F	10:10AM	11:00AM	SURGE 104B	10M
+18507	UAP-2014	Urbanization and Development	ONLINE	3	40	CS Walter	(ARR)	----- (ARR) -----		TBA	00X
+18508	UAP-3014	Urban Policy and Planning	L	3	30	KL Drake	M W	8:00AM	9:15AM	AA 114	08M

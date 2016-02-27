@@ -1,0 +1,587 @@
+CRN	Course	Title	Type	Cr Hrs	Capacity	Instructor	Days	Begin	End	Location	Exam
+11097	BIOL-1006	General Biology	L	3	410	JW Via	T R	12:30PM	1:45PM	GLCDB 64	12T
+11098	BIOL-1016	General Biology Lab	B	1	24	W Lee	M	12:20PM	2:15PM	DER 1021	12M
+11099	BIOL-1016	General Biology Lab	B	1	24	W Lee	T	10:10AM	12:05PM	DER 1021	10T
+11100	BIOL-1016	General Biology Lab	B	1	24	W Lee	T	2:30PM	4:25PM	DER 1021	14T
+11101	BIOL-1016	General Biology Lab	B	1	24	W Lee	W	8:00AM	9:55AM	DER 1021	08W
+11102	BIOL-1016	General Biology Lab	B	1	24	W Lee	W	12:20PM	2:15PM	DER 1021	12W
+11103	BIOL-1106	Principles of Biology	L	3	224	JA Evans	T R	12:30PM	1:45PM	GOODW 190	12T
+11104	BIOL-1106	Principles of Biology	L	3	224	GN Stevens	T R	2:00PM	3:15PM	GOODW 190	14T
+11105	BIOL-1106	Principles of Biology	L	3	224	DM Denbow	T R	8:00AM	9:15AM	LITRV 1670	08T
+11106	BIOL-1106	Principles of Biology	L	3	224	EP Hogan	T R	11:00AM	12:15PM	SQUIR COLNL	11T
+11107	BIOL-1106	Principles of Biology	L	3	224	MS Rosenzweig	M W	2:30PM	3:45PM	SQUIR COLNL	14M
+11108	BIOL-1106	Principles of Biology	L	3	224	MS Rosenzweig	M W	4:00PM	5:15PM	SQUIR COLNL	16M
+11109	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	8:00AM	9:55AM	DER 1009	08M
+11110	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	10:10AM	12:05PM	DER 1009	10M
+11111	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	12:20PM	2:15PM	DER 1009	12M
+11112	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	2:30PM	4:25PM	DER 1009	14M
+11113	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	M	4:40PM	6:35PM	DER 1009	16M
+11114	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	8:00AM	9:55AM	DER 1009	08T
+11115	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	10:10AM	12:05PM	DER 1009	10T
+11116	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	12:20PM	2:15PM	DER 1009	12T
+11117	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	2:30PM	4:25PM	DER 1009	14T
+11119	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	8:00AM	9:55AM	DER 1009	08W
+11120	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	10:10AM	12:05PM	DER 1009	10W
+11121	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	12:20PM	2:15PM	DER 1009	12W
+11122	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	2:30PM	4:25PM	DER 1009	14W
+11123	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	8:00AM	9:55AM	DER 1009	08R
+11124	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	10:10AM	12:05PM	DER 1009	10R
+11125	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	12:20PM	2:15PM	DER 1009	12R
+11126	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	R	2:30PM	4:25PM	DER 1009	14R
+11127	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	8:00AM	9:55AM	DER 1021	08M
+11128	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	10:10AM	12:05PM	DER 1021	10M
+11129	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	2:30PM	4:25PM	DER 1021	14M
+11130	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	M	4:40PM	6:35PM	DER 1021	16M
+11131	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	8:00AM	9:55AM	DER 1021	08T
+11132	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	12:20PM	2:15PM	DER 1021	12T
+11134	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	10:10AM	12:05PM	DER 1021	10W
+11135	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	2:30PM	4:25PM	DER 1021	14W
+11136	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	8:00AM	9:55AM	DER 1021	08R
+11137	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	10:10AM	12:05PM	DER 1021	10R
+11138	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	8:00AM	9:55AM	DER 1022	08M
+11139	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	10:10AM	12:05PM	DER 1022	10M
+11140	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	12:20PM	2:15PM	DER 1022	12M
+11141	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	2:30PM	4:25PM	DER 1022	14M
+11142	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	M	4:40PM	6:35PM	DER 1022	16M
+11143	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	8:00AM	9:55AM	DER 1022	08T
+11144	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	10:10AM	12:05PM	DER 1022	10T
+11145	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	12:20PM	2:15PM	DER 1022	12T
+11146	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	2:30PM	4:25PM	DER 1022	14T
+11147	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	8:00AM	9:55AM	DER 1022	08W
+11148	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	10:10AM	12:05PM	DER 1022	10W
+11149	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	12:20PM	2:15PM	DER 1022	12W
+11150	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	2:30PM	4:25PM	DER 1022	14W
+11151	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	8:00AM	9:55AM	DER 1022	08R
+11152	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	10:10AM	12:05PM	DER 1022	10R
+11153	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	R	12:20PM	2:15PM	DER 1022	12R
+11154	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	R	2:30PM	4:25PM	DER 1022	14R
+11155	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	8:00AM	9:55AM	DER 1033	08M
+11156	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	10:10AM	12:05PM	DER 1033	10M
+11157	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	12:20PM	2:15PM	DER 1033	12M
+11158	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	M	2:30PM	4:25PM	DER 1033	14M
+11159	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	M	4:40PM	6:35PM	DER 1033	16M
+11160	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	8:00AM	9:55AM	DER 1033	08T
+11161	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	10:10AM	12:05PM	DER 1033	10T
+11162	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	12:20PM	2:15PM	DER 1033	12T
+11163	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	T	2:30PM	4:25PM	DER 1033	14T
+11165	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	8:00AM	9:55AM	DER 1033	08W
+11166	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	10:10AM	12:05PM	DER 1033	10W
+11167	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	12:20PM	2:15PM	DER 1033	12W
+20063	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	12:20PM	2:15PM	DER 1021	12R
+20064	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	R	2:30PM	4:25PM	DER 1021	14R
+20065	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	W	2:30PM	4:25PM	DER 1033	14W
+20066	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	8:00AM	9:55AM	DER 1033	08R
+20067	BIOL-1116	Principles of Biol Lab	B	1	24	W Lee	R	10:10AM	12:05PM	DER 1033	10R
+20068	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	R	12:20PM	2:15PM	DER 1033	12R
+20069	BIOL-1116	Principles of Biol Lab	B	1	0	W Lee	R	2:30PM	4:25PM	DER 1033	14R
+11973	CHEM-1016	Introduction to Chemistry	L	3	300	JE Eddleton	T R	11:00AM	12:15PM	DAV 281	11T
+11974	CHEM-1026	Intro Chem Lab	B	1	24	JE Eddleton	M	12:00PM	1:50PM	HAHN N 308	12M
+11975	CHEM-1026	Intro Chem Lab	B	1	0	JE Eddleton	M	8:00AM	9:50AM	HAHN N 308	08M
+11976	CHEM-1026	Intro Chem Lab	B	1	24	JE Eddleton	M	10:00AM	11:50AM	HAHN N 308	10M
+11977	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	MCB 318	
+11978	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 308	
+11979	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 318	
+11980	CHEM-1035	General Chemistry	L	3	34	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 316	
+11981	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 329	
+11982	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 304	
+11983	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 218	
+11984	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	2:00PM	2:50PM	PAM 1001	
+11985	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	MCB 308	
+11986	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 332	
+11987	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	MCB 304	
+11988	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 318	
+11989	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	MCB 329	
+11990	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 329	
+11991	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 307	
+11992	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 233	
+11993	CHEM-1035	General Chemistry	L	3	33	JE Eddleton	M W F	1:25PM	2:15PM	HAHN N 140	CTE
+				* Additional Times *			R	4:00PM	4:50PM	MCB 328	
+11994	CHEM-1035	General Chemistry	L	3	34	JE Eddleton	M W F	1:25PM	2:15PM	HAHN N 140	CTE
+				* Additional Times *			R	4:00PM	4:50PM	DER 1076	
+11995	CHEM-1035	General Chemistry	L	3	33	JE Eddleton	M W F	1:25PM	2:15PM	HAHN N 140	CTE
+				* Additional Times *			R	2:00PM	2:50PM	RAND 222	
+11996	CHEM-1035	General Chemistry	L	3	33	JE Eddleton	M W F	1:25PM	2:15PM	HAHN N 140	CTE
+				* Additional Times *			R	3:00PM	3:50PM	MCB 318	
+11997	CHEM-1035	General Chemistry	L	3	34	JE Eddleton	M W F	1:25PM	2:15PM	HAHN N 140	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 307	
+11998	CHEM-1035	General Chemistry	L	3	33	JE Eddleton	M W F	1:25PM	2:15PM	HAHN N 140	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 240	
+11999	CHEM-1035	General Chemistry	L	3	35	SM Arachchige	M W F	10:10AM	11:00AM	DAV 281	CTE
+				* Additional Times *			R	3:00PM	3:50PM	MCB 308	
+12000	CHEM-1035	General Chemistry	L	3	35	MA Berg	M W	4:00PM	5:15PM	DAV 281	CTE
+				* Additional Times *			R	2:00PM	2:50PM	MCB 308	
+12001	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 223	
+12002	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 218	
+12003	CHEM-1036	General Chemistry	L	3	31	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	GBJ 104	
+12004	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 223	
+12005	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	PAM 1002	
+12006	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 224	
+12007	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 226	
+12008	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 230	
+12009	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 231	
+12010	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 232	
+12011	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 224	
+12012	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	PAM 1010	
+12013	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	3:00PM	3:50PM	MCB 329	
+12014	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 226	
+12015	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 238	
+12016	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	WHIT 277	
+12017	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 230	
+12018	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	3:00PM	3:50PM	PAM 1002	
+12019	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	LIBR 100S	
+12020	CHEM-1036	General Chemistry	L	3	0	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 302	
+12021	CHEM-1036	General Chemistry	L	3	33	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 231	
+12022	CHEM-1036	General Chemistry	L	3	32	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 232	
+12023	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	11:15AM	12:05PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 304	
+12024	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 328	
+12025	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 238	
+12026	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 316	
+12027	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MAJWM 434	
+12028	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 328	
+12029	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 322	
+12030	CHEM-1036	General Chemistry	L	3	28	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	MCB 204	
+12031	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	3:00PM	3:50PM	PAM 1008	
+12032	CHEM-1036	General Chemistry	L	3	0	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	5:00PM	5:50PM	HOLD 114	
+12033	CHEM-1036	General Chemistry	L	3	34	KA Neidigh	M W	2:30PM	3:45PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 322	
+12034	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	6:00PM	6:50PM	MCB 332	
+12035	CHEM-1036	General Chemistry	L	3	25	KA Neidigh	M W F	1:25PM	2:15PM	DAV 281	CTE
+				* Additional Times *			R	2:00PM	2:50PM	MCB 318	
+12036	CHEM-1036	General Chemistry	L	3	34	PG Amateis	M W F	12:20PM	1:10PM	DAV 281	CTE
+				* Additional Times *			R	4:00PM	4:50PM	PAM 3008	
+12037	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	2:00PM	3:50PM	HAHN N 209	14R
+12038	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	F	8:00AM	9:50AM	HAHN N 209	08F
+12039	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	F	10:00AM	11:50AM	HAHN N 209	10F
+12040	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	2:00PM	3:50PM	HAHN N 308	14W
+12041	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	10:00AM	11:50AM	HAHN N 308	10W
+12042	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	2:00PM	3:50PM	HAHN N 308	14R
+12043	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	W	8:00AM	9:50AM	HAHN N 308	08W
+12044	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	8:00AM	9:50AM	HAHN N 308	08R
+12045	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	F	8:00AM	9:50AM	HAHN N 308	08F
+12046	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	10:00AM	11:50AM	HAHN N 308	10R
+12047	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	W	4:00PM	5:50PM	HAHN N 213	16W
+12048	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	W	4:00PM	5:50PM	HAHN N 308	16W
+12049	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	W	6:00PM	7:50PM	HAHN N 213	18W
+12050	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	W	6:00PM	7:50PM	HAHN N 308	18W
+12051	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	R	4:00PM	5:50PM	HAHN N 213	16R
+12052	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	R	4:00PM	5:50PM	HAHN N 308	16R
+12053	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	R	6:00PM	7:50PM	HAHN N 213	18R
+12054	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	R	6:00PM	7:50PM	HAHN N 308	18R
+12055	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	F	2:00PM	3:50PM	HAHN N 213	14F
+12056	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	F	2:00PM	3:50PM	HAHN N 308	14F
+12057	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	12:00PM	1:50PM	HAHN N 213	12R
+12058	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	12:00PM	1:50PM	HAHN N 213	12W
+12059	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	12:00PM	1:50PM	HAHN N 308	12R
+12060	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	F	10:00AM	11:50AM	HAHN N 213	10F
+12061	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	F	12:00PM	1:50PM	HAHN N 213	12F
+12062	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	F	12:00PM	1:50PM	HAHN N 308	12F
+12063	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	F	10:00AM	11:50AM	HAHN N 308	10F
+12064	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	2:00PM	3:50PM	HAHN N 213	14R
+12065	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	2:00PM	3:50PM	HAHN N 213	14W
+12066	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	T	2:00PM	3:50PM	HAHN N 213	14T
+12067	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	M	2:00PM	3:50PM	HAHN N 213	14M
+12068	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	T	4:00PM	5:50PM	HAHN N 213	16T
+12069	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	T	4:00PM	5:50PM	HAHN N 308	16T
+12070	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	T	6:00PM	7:50PM	HAHN N 213	18T
+12071	CHEM-1045	General Chemistry Lab	B	1	0	VK Long	T	6:00PM	7:50PM	HAHN N 308	18T
+12072	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	T	12:00PM	1:50PM	HAHN N 213	12T
+12073	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	10:00AM	11:50AM	HAHN N 213	10W
+12074	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	10:00AM	11:50AM	HAHN N 213	10R
+12075	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	M	12:00PM	1:50PM	HAHN N 213	12M
+12076	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	T	10:00AM	11:50AM	HAHN N 213	10T
+12077	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	M	10:00AM	11:50AM	HAHN N 213	10M
+12078	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	F	8:00AM	9:50AM	HAHN N 213	08F
+12079	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	8:00AM	9:50AM	HAHN N 213	08R
+12080	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	8:00AM	9:50AM	HAHN N 213	08W
+12081	CHEM-1045	General Chemistry Lab	B	1	23	VK Long	T	8:00AM	9:50AM	HAHN N 213	08T
+12082	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	M	8:00AM	9:50AM	HAHN N 213	08M
+12083	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	12:00PM	1:50PM	HAHN N 308	12W
+12084	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	10:00AM	11:50AM	HAHN N 209	10W
+12085	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	12:00PM	1:50PM	HAHN N 209	12W
+12086	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	W	2:00PM	3:50PM	HAHN N 209	14W
+12087	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	8:00AM	9:50AM	HAHN N 209	08R
+12088	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	10:00AM	11:50AM	HAHN N 209	10R
+12089	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	R	12:00PM	1:50PM	HAHN N 209	12R
+20276	CHEM-1045	General Chemistry Lab	B	1	24	VK Long	F	12:00PM	1:50PM	HAHN N 209	12F
+12090	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	T	6:00PM	7:50PM	HAHN N 201	18T
+12091	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	10:00AM	11:50AM	HAHN N 209	10T
+12092	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	R	10:00AM	11:50AM	HAHN N 202	10R
+12093	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	W	10:00AM	11:50AM	HAHN N 201	10W
+12094	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	10:00AM	11:50AM	HAHN N 202	10M
+12095	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	10:00AM	11:50AM	HAHN N 209	10M
+12096	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	2:00PM	3:50PM	HAHN N 201	14T
+12097	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	10:00AM	11:50AM	HAHN N 201	10T
+12098	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	10:00AM	11:50AM	HAHN N 202	10T
+12099	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	F	12:00PM	1:50PM	HAHN N 202	12F
+12100	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	W	6:00PM	7:50PM	HAHN N 201	18W
+12101	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	W	6:00PM	7:50PM	HAHN N 202	18W
+12102	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	W	6:00PM	7:50PM	HAHN N 209	18W
+12103	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	T	6:00PM	7:50PM	HAHN N 202	18T
+12104	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	R	8:00AM	9:50AM	HAHN N 201	08R
+12105	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	R	10:00AM	11:50AM	HAHN N 201	10R
+12106	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	F	10:00AM	11:50AM	HAHN N 201	10F
+12107	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	W	4:00PM	5:50PM	HAHN N 201	16W
+12108	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	W	4:00PM	5:50PM	HAHN N 202	16W
+12109	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	W	4:00PM	5:50PM	HAHN N 209	16W
+12110	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	F	2:00PM	3:50PM	HAHN N 201	14F
+12111	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	12:00PM	1:50PM	HAHN N 202	12T
+12112	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	8:00AM	9:50AM	HAHN N 202	08T
+12113	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	F	2:00PM	3:50PM	HAHN N 202	14F
+12114	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	F	2:00PM	3:50PM	HAHN N 209	14F
+12115	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	M	8:00AM	9:50AM	HAHN N 201	08M
+12116	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	8:00AM	9:50AM	HAHN N 202	08M
+12117	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	8:00AM	9:50AM	HAHN N 209	08M
+12118	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	8:00AM	9:50AM	HAHN N 201	08T
+12119	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	8:00AM	9:50AM	HAHN N 209	08T
+12120	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	12:00PM	1:50PM	HAHN N 201	12T
+12121	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	R	8:00AM	9:50AM	HAHN N 202	08R
+12122	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	W	8:00AM	9:50AM	HAHN N 201	08W
+12123	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	W	8:00AM	9:50AM	HAHN N 202	08W
+12124	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	W	8:00AM	9:50AM	HAHN N 209	08W
+12125	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	10:00AM	11:50AM	HAHN N 201	10M
+12126	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	W	10:00AM	11:50AM	HAHN N 202	10W
+12127	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	12:00PM	1:50PM	HAHN N 201	12M
+12128	CHEM-1046	General Chemistry Lab	B	1	11	VK Long	M	12:00PM	1:50PM	HAHN N 202	12M
+12129	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	12:00PM	1:50PM	HAHN N 209	12T
+12130	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	R	12:00PM	1:50PM	HAHN N 201	12R
+12131	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	12:00PM	1:50PM	HAHN N 209	12M
+12132	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	R	12:00PM	1:50PM	HAHN N 202	12R
+12133	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	W	12:00PM	1:50PM	HAHN N 201	12W
+12134	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	W	12:00PM	1:50PM	HAHN N 202	12W
+12135	CHEM-1046	General Chemistry Lab	B	1	23	VK Long	R	2:00PM	3:50PM	HAHN N 201	14R
+12136	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	M	2:00PM	3:50PM	HAHN N 201	14M
+12137	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	M	2:00PM	3:50PM	HAHN N 202	14M
+12138	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	M	2:00PM	3:50PM	HAHN N 209	14M
+12139	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	W	2:00PM	3:50PM	HAHN N 201	14W
+12140	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	R	2:00PM	3:50PM	HAHN N 202	14R
+12141	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	W	2:00PM	3:50PM	HAHN N 202	14W
+12142	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	M	4:00PM	5:50PM	HAHN N 201	16M
+12143	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	M	4:00PM	5:50PM	HAHN N 202	16M
+12144	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	M	4:00PM	5:50PM	HAHN N 209	16M
+12145	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	F	10:00AM	11:50AM	HAHN N 202	10F
+12146	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	T	4:00PM	5:50PM	HAHN N 201	16T
+12147	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	F	12:00PM	1:50PM	HAHN N 201	12F
+12149	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	2:00PM	3:50PM	HAHN N 202	14T
+12150	CHEM-1046	General Chemistry Lab	B	1	24	VK Long	T	2:00PM	3:50PM	HAHN N 209	14T
+12151	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	F	8:00AM	9:50AM	HAHN N 201	08F
+12152	CHEM-1046	General Chemistry Lab	B	1	22	VK Long	F	8:00AM	9:50AM	HAHN N 202	08F
+12153	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	T	4:00PM	5:50PM	HAHN N 202	16T
+12154	CHEM-1046	General Chemistry Lab	B	1	0	VK Long	T	4:00PM	5:50PM	HAHN N 209	16T
+13907	ENSC-1016	Found Envrion Science	L	3	75	MJ Eick	T R	9:30AM	10:45AM	SMYTH 146	09T
+14135	FOR-2114	Ecology of Appalachian Forests	L	3	125	JR Seiler	M W F	10:10AM	11:00AM	LITRV 1870	10M
+14304	GEOS-1004	Physical Geology	L	3	300	PS Prince	T R	11:00AM	12:15PM	MCB 100	11T
+14305	GEOS-1004	Physical Geology	ONLINE	3	250	L Fedele	(ARR)	----- (ARR) -----		TBA	00X
+14306	GEOS-1014	The Earth & Life Through Time	L	4	20	SJ Nesbitt	M W F	1:25PM	2:15PM	DER 4069	13M
+				* Additional Times *			T	11:00AM	1:50PM	DER 3045	
+14307	GEOS-1014	The Earth & Life Through Time	L	4	20	SJ Nesbitt	M W F	1:25PM	2:15PM	DER 4069	13M
+				* Additional Times *			W	10:10AM	1:00PM	DER 3045	
+14308	GEOS-1014	The Earth & Life Through Time	L	4	20	SJ Nesbitt	M W F	1:25PM	2:15PM	DER 4069	13M
+				* Additional Times *			T	2:00PM	4:50PM	DER 3045	
+14309	GEOS-1024	Resources Geology	L	3	300	L Fedele	M W	2:30PM	3:45PM	MCB 100	14M
+14310	GEOS-1024	Resources Geology	L	3	99	JA Chermak	T R	8:00AM	9:15AM	HAHN N 140	08T
+14311	GEOS-1024	Resources Geology	L	3	255	JA Chermak	T R	12:30PM	1:45PM	MCB 100	12T
+14312	GEOS-1034	Earth's Natural Hazards	L	3	250	NE Johnson	T R	11:00AM	12:15PM	GOODW 190	11T
+14313	GEOS-1104	Physical Geology Laboratory	B	1	19	PS Prince	W	12:20PM	3:10PM	DER 2060	12W
+14314	GEOS-1104	Physical Geology Laboratory	B	1	18	PS Prince	F	8:00AM	10:50AM	DER 2060	08F
+14315	GEOS-1104	Physical Geology Laboratory	B	1	18	PS Prince	F	11:15AM	2:00PM	DER 2060	11F
+14316	GEOS-1104	Physical Geology Laboratory	B	1	18	PS Prince	T	2:00PM	4:50PM	DER 2060	14T
+14317	GEOS-1104	Physical Geology Laboratory	B	1	18	PS Prince	W	8:00AM	10:50AM	DER 2060	08W
+14318	GEOS-1104	Physical Geology Laboratory	B	1	20	PS Prince	W	4:00PM	6:50PM	DER 2060	16W
+14319	GEOS-1104	Physical Geology Laboratory	B	1	18	PS Prince	T	5:00PM	7:50PM	DER 2060	17T
+14320	GEOS-1104	Physical Geology Laboratory	B	1	18	PS Prince	R	5:00PM	7:50PM	DER 2060	17R
+14321	GEOS-1124	Resources Geol Lab	B	1	21	JA Chermak	W	12:20PM	2:10PM	DER 2052	12W
+14322	GEOS-1124	Resources Geol Lab	B	1	21	JA Chermak	R	5:00PM	6:50PM	DER 2052	17R
+14323	GEOS-1124	Resources Geol Lab	B	1	20	JA Chermak	T	8:00AM	9:50AM	DER 2052	08T
+17478	PHYS-1056	Introduction to Astronomy	L	3	647	BE Bear	M W F	1:25PM	2:15PM	SQUIR COLNL	13M
+17479	PHYS-1156	Astronomy Laboratory	B	1	30	JH Simonetti	T	8:00PM	9:50PM	DER 4029	20T
+17480	PHYS-1156	Astronomy Laboratory	B	1	0	JH Simonetti	R	8:00PM	9:50PM	DER 4029	20R
+17481	PHYS-1156	Astronomy Laboratory	B	1	30	JH Simonetti	M	8:00PM	9:50PM	DER 4009	20M
+17482	PHYS-1156	Astronomy Laboratory	B	1	30	JH Simonetti	W	8:00PM	9:50PM	DER 4009	20W
+17483	PHYS-1156	Astronomy Laboratory	B	1	30	JH Simonetti	T	8:00PM	9:50PM	DER 4009	20T
+17484	PHYS-1156	Astronomy Laboratory	B	1	30	JH Simonetti	R	8:00PM	9:50PM	DER 4009	20R
+17485	PHYS-2205	General Physics	L	3	345	K Papavasiliou	T R	5:00PM	6:15PM	DAV 281	17T
+17487	PHYS-2206	General Physics	L	3	345	K Papavasiliou	T R	6:30PM	7:45PM	DAV 281	CTE
+17489	PHYS-2206	General Physics	L	3	345	T Takeuchi	T R	3:30PM	4:45PM	DAV 281	CTE
+17490	PHYS-2215	General Physics Laboratory	B	1	32	TR Merritt	T	8:00AM	9:50AM	DER 4029	08T
+17491	PHYS-2215	General Physics Laboratory	B	1	32	TR Merritt	M	4:40PM	6:30PM	DER 4009	16M
+17492	PHYS-2215	General Physics Laboratory	B	1	32	TR Merritt	M	4:40PM	6:30PM	DER 4029	16M
+17493	PHYS-2215	General Physics Laboratory	B	1	0	TR Merritt	T	8:00AM	9:50AM	DER 4009	08T
+17494	PHYS-2215	General Physics Laboratory	B	1	32	TR Merritt	T	10:10AM	12:00PM	DER 4009	10T
+17495	PHYS-2215	General Physics Laboratory	B	1	32	TR Merritt	T	10:10AM	12:00PM	DER 4029	10T
+17496	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	R	12:20PM	2:10PM	DER 4029	12R
+17497	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	8:00AM	9:50AM	DER 4029	08F
+17498	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	W	2:30PM	4:20PM	DER 4009	14W
+17499	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	2:30PM	4:20PM	DER 4029	14F
+17500	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	2:30PM	4:20PM	DER 4009	14F
+17501	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	10:10AM	12:00PM	DER 4029	10F
+17502	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	R	10:10AM	12:00PM	DER 4029	10R
+17503	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	W	2:30PM	4:20PM	DER 4029	14W
+17504	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	10:10AM	12:00PM	DER 4009	10F
+17505	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	R	8:00AM	9:50AM	DER 4029	08R
+17506	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	W	4:40PM	6:30PM	DER 4029	16W
+17507	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	W	4:40PM	6:30PM	DER 4009	16W
+17508	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	4:40PM	6:30PM	DER 4009	16F
+17509	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	8:00AM	9:50AM	DER 4009	08F
+17510	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	R	10:10AM	12:00PM	DER 4009	10R
+17511	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	12:20PM	2:10PM	DER 4009	12F
+17512	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	12:20PM	2:10PM	DER 4029	12F
+17513	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	F	4:40PM	6:30PM	DER 4029	16F
+17514	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	R	12:20PM	2:10PM	DER 4009	12R
+17515	PHYS-2216	General Physics Laboratory	B	1	32	TR Merritt	R	8:00AM	9:50AM	DER 4009	08R
+17516	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	M	8:00AM	9:50AM	HAHN N 103	CTE
+17517	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	10:10AM	12:00PM	HAHN N 103	CTE
+17518	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	12:20PM	2:10PM	HAHN N 103	CTE
+17519	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	2:30PM	4:20PM	HAHN N 103	CTE
+17521	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	2:30PM	4:20PM	HAHN N 103	CTE
+17523	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	4:40PM	6:30PM	HAHN N 103	CTE
+17525	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	6:50PM	8:40PM	HAHN N 103	CTE
+17531	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	M	8:00AM	9:50AM	HAHN N 103	CTE
+17532	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	10:10AM	12:00PM	HAHN N 103	CTE
+17533	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	12:20PM	2:10PM	HAHN N 103	CTE
+17534	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	2:30PM	4:20PM	HAHN N 103	CTE
+17536	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	12:20PM	2:10PM	HAHN N 103	CTE
+17539	PHYS-2305	Foundations of Physics I	L	4	42	TR Merritt	T R	9:30AM	10:45AM	HAHN N 130	CTE
+				* Additional Times *			F	12:20PM	1:10PM	ROB 101	
+17540	PHYS-2305	Foundations of Physics I	L	4	42	TR Merritt	T R	9:30AM	10:45AM	HAHN N 130	CTE
+				* Additional Times *			M	1:25PM	2:15PM	ROB 101	
+17542	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	1:25PM	2:15PM	HAHN N 130	CTE
+				* Additional Times *			F	8:00AM	8:50AM	ROB 112	
+17543	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	11:15AM	12:05PM	HAHN N 130	CTE
+				* Additional Times *			F	1:25PM	2:15PM	ROB 112	
+17544	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	11:15AM	12:05PM	HAHN N 130	CTE
+				* Additional Times *			M	8:00AM	8:50AM	ROB 101	
+17545	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	6:50PM	8:40PM	HAHN N 103	CTE
+17547	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	1:25PM	2:15PM	HAHN N 130	CTE
+				* Additional Times *			W	11:15AM	12:05PM	RAND 220	
+17548	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	1:25PM	2:15PM	HAHN N 130	CTE
+				* Additional Times *			F	10:10AM	11:00AM	GBJ 102	
+17549	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	1:25PM	2:15PM	HAHN N 130	CTE
+				* Additional Times *			W	9:05AM	9:55AM	WMS 334	
+17550	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	11:15AM	12:05PM	HAHN N 130	CTE
+				* Additional Times *			M	9:05AM	9:55AM	ROB 101	
+17551	PHYS-2305	Foundations of Physics I	L	4	45	BP Fahrman	M W F	9:05AM	9:55AM	HAHN N 130	CTE
+				* Additional Times *			M	8:00AM	8:50AM	ROB 112	
+17552	PHYS-2305	Foundations of Physics I	L	4	45	TR Merritt	T R	9:30AM	10:45AM	HAHN N 130	CTE
+				* Additional Times *			W	11:15AM	12:05PM	ROB 112	
+17553	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	12:30PM	1:45PM	HAHN N 130	CTE
+				* Additional Times *			W	8:00AM	8:50AM	WMS 134	
+17555	PHYS-2305	Foundations of Physics I	L	4	45	CC Glesner	M W F	8:00AM	8:50AM	HAHN N 130	CTE
+				* Additional Times *			M	9:05AM	9:55AM	ROB 112	
+17556	PHYS-2305	Foundations of Physics I	L	4	45	CC Glesner	M W F	8:00AM	8:50AM	HAHN N 130	CTE
+				* Additional Times *			M	12:20PM	1:10PM	ROB 112	
+17557	PHYS-2305	Foundations of Physics I	L	4	45	CC Glesner	M W F	8:00AM	8:50AM	HAHN N 130	CTE
+				* Additional Times *			M	11:15AM	12:05PM	ROB 112	
+17558	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	12:20PM	1:10PM	HAHN N 130	CTE
+				* Additional Times *			W	8:00AM	8:50AM	ROB 105	
+17559	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	8:00AM	9:15AM	HAHN N 130	CTE
+				* Additional Times *			M	11:15AM	12:05PM	ROB 101	
+17560	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	8:00AM	9:15AM	HAHN N 130	CTE
+				* Additional Times *			W	12:20PM	1:10PM	ROB 105	
+17561	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	12:20PM	1:10PM	HAHN N 130	CTE
+				* Additional Times *			F	9:05AM	9:55AM	GBJ 104	
+17562	PHYS-2305	Foundations of Physics I	L	4	42	KP Nelson	T R	8:00AM	9:15AM	HAHN N 130	CTE
+				* Additional Times *			W	1:25PM	2:15PM	PAM 3004	
+17563	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	8:00AM	9:15AM	HAHN N 130	CTE
+				* Additional Times *			W	11:15AM	12:05PM	ROB 101	
+17564	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	12:30PM	1:45PM	HAHN N 130	CTE
+				* Additional Times *			W	11:15AM	12:05PM	WMS 134	
+17565	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	12:30PM	1:45PM	HAHN N 130	CTE
+				* Additional Times *			W	10:10AM	11:00AM	WMS 334	
+17566	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	12:30PM	1:45PM	HAHN N 130	CTE
+				* Additional Times *			W	9:05AM	9:55AM	ROB 105	
+17567	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	12:20PM	1:10PM	HAHN N 130	CTE
+				* Additional Times *			W	10:10AM	11:00AM	GBJ 102	
+17568	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	12:20PM	1:10PM	HAHN N 130	CTE
+				* Additional Times *			F	11:15AM	12:05PM	GBJ 102	
+17569	PHYS-2305	Foundations of Physics I	L	4	45	TR Merritt	T R	9:30AM	10:45AM	HAHN N 130	CTE
+				* Additional Times *			W	10:10AM	11:00AM	ROB 112	
+17570	PHYS-2305	Foundations of Physics I	L	4	45	BP Fahrman	M W F	9:05AM	9:55AM	HAHN N 130	CTE
+				* Additional Times *			M	1:25PM	2:15PM	ROB 112	
+17571	PHYS-2305	Foundations of Physics I	L	4	45	BP Fahrman	M W F	9:05AM	9:55AM	HAHN N 130	CTE
+				* Additional Times *			M	2:30PM	3:20PM	ROB 101	
+17573	PHYS-2305	Foundations of Physics I	L	4	45	BP Fahrman	M W F	9:05AM	9:55AM	HAHN N 130	CTE
+				* Additional Times *			F	8:00AM	8:50AM	ROB 105	
+17574	PHYS-2305	Foundations of Physics I	L	4	45	P Kraykivskiy	M W F	11:15AM	12:05PM	HAHN N 130	CTE
+				* Additional Times *			F	12:20PM	1:10PM	ROB 105	
+17575	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	4:40PM	6:30PM	HAHN N 103	CTE
+17576	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	6:50PM	8:40PM	HAHN N 103	CTE
+17577	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	4:40PM	6:30PM	HAHN N 103	CTE
+17578	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	M	6:50PM	8:40PM	HAHN N 103	CTE
+17579	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	8:00AM	9:50AM	HAHN N 103	CTE
+17580	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	8:00AM	9:50AM	HAHN N 103	CTE
+17581	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	10:10AM	12:00PM	HAHN N 103	CTE
+17582	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	10:10AM	12:00PM	HAHN N 103	CTE
+17584	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	12:20PM	2:10PM	HAHN N 103	CTE
+17585	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	2:30PM	4:20PM	HAHN N 103	CTE
+17586	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	2:30PM	4:20PM	HAHN N 103	CTE
+17587	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	4:40PM	6:30PM	HAHN N 103	CTE
+17588	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	4:40PM	6:30PM	HAHN N 103	CTE
+17589	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	6:50PM	8:40PM	HAHN N 103	CTE
+17590	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	T	6:50PM	8:40PM	HAHN N 103	CTE
+17591	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	8:00AM	9:50AM	HAHN N 103	CTE
+17598	PHYS-2305	Foundations of Physics I	L	4	45	VW Scarola	T R	11:00AM	12:15PM	HAHN N 130	CTE
+				* Additional Times *			W	10:10AM	11:00AM	ROB 101	
+17599	PHYS-2305	Foundations of Physics I	L	4	45	VW Scarola	T R	11:00AM	12:15PM	HAHN N 130	CTE
+				* Additional Times *			W	8:00AM	8:50AM	ROB 101	
+17600	PHYS-2305	Foundations of Physics I	L	4	45	VW Scarola	T R	11:00AM	12:15PM	HAHN N 130	CTE
+				* Additional Times *			W	9:05AM	9:55AM	ROB 112	
+17601	PHYS-2305	Foundations of Physics I	L	4	45	CC Glesner	M W F	8:00AM	8:50AM	HAHN N 130	CTE
+				* Additional Times *			M	10:10AM	11:00AM	ROB 101	
+17604	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	8:00AM	9:50AM	HAHN N 103	CTE
+17605	PHYS-2305	Foundations of Physics I	L	4	45	VW Scarola	T R	11:00AM	12:15PM	HAHN N 130	CTE
+				* Additional Times *			W	8:00AM	8:50AM	ROB 112	
+17606	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	10:10AM	12:00PM	HAHN N 103	CTE
+17607	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	12:20PM	2:10PM	HAHN N 103	CTE
+17610	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	4:40PM	6:30PM	HAHN N 103	CTE
+17614	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	2:30PM	4:20PM	HAHN N 103	CTE
+19123	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	8:00AM	9:50AM	HAHN N 103	CTE
+19125	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	2:30PM	4:20PM	HAHN N 103	CTE
+19126	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	2:30PM	4:20PM	HAHN N 103	CTE
+19127	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	2:30PM	4:20PM	HAHN N 103	CTE
+19128	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	4:40PM	6:30PM	HAHN N 103	CTE
+19129	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	4:40PM	6:30PM	HAHN N 103	CTE
+19130	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	4:40PM	6:30PM	HAHN N 103	CTE
+19131	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	6:50PM	8:40PM	HAHN N 103	CTE
+19132	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	6:50PM	8:40PM	HAHN N 103	CTE
+19133	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	W	6:50PM	8:40PM	HAHN N 103	CTE
+19134	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	8:00AM	9:50AM	HAHN N 103	CTE
+19135	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	8:00AM	9:50AM	HAHN N 103	CTE
+19137	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	8:00AM	9:50AM	HAHN N 103	CTE
+19138	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	10:10AM	12:00PM	HAHN N 103	CTE
+19139	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	10:10AM	12:00PM	HAHN N 103	CTE
+19140	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	10:10AM	12:00PM	HAHN N 103	CTE
+19141	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	12:20PM	2:10PM	HAHN N 103	CTE
+19142	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	12:20PM	2:10PM	HAHN N 103	CTE
+19143	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	12:20PM	2:10PM	HAHN N 103	CTE
+19144	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	2:30PM	4:20PM	HAHN N 103	CTE
+19145	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	2:30PM	4:20PM	HAHN N 103	CTE
+19146	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	2:30PM	4:20PM	HAHN N 103	CTE
+19147	PHYS-2305	Foundations of Physics I	B	0	36	TR Merritt	R	4:40PM	6:30PM	HAHN N 103	CTE
+19148	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	4:40PM	6:30PM	HAHN N 103	CTE
+19149	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	4:40PM	6:30PM	HAHN N 103	CTE
+19150	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	6:50PM	8:40PM	HAHN N 103	CTE
+19151	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	6:50PM	8:40PM	HAHN N 103	CTE
+19152	PHYS-2305	Foundations of Physics I	B	0	0	TR Merritt	R	6:50PM	8:40PM	HAHN N 103	CTE
+19269	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	3:30PM	4:45PM	HAHN N 130	CTE
+				* Additional Times *			W	9:05AM	9:55AM	ROB 101	
+19270	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	3:30PM	4:45PM	HAHN N 130	CTE
+				* Additional Times *			W	12:20PM	1:10PM	ROB 101	
+19271	PHYS-2305	Foundations of Physics I	L	4	44	KP Nelson	T R	3:30PM	4:45PM	HAHN N 130	CTE
+				* Additional Times *			W	1:25PM	2:15PM	ROB 101	
+19272	PHYS-2305	Foundations of Physics I	L	4	45	KP Nelson	T R	3:30PM	4:45PM	HAHN N 130	CTE
+				* Additional Times *			W	2:30PM	3:20PM	ROB 101	
+19273	PHYS-2305	Foundations of Physics I	L	4	45	PL Hochendoner	T R	5:00PM	6:15PM	HAHN N 130	CTE
+				* Additional Times *			W	1:25PM	2:15PM	ROB 103	
+19274	PHYS-2305	Foundations of Physics I	L	4	45	PL Hochendoner	T R	5:00PM	6:15PM	HAHN N 130	CTE
+				* Additional Times *			W	2:30PM	3:20PM	ROB 103	
+17616	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	8:00AM	9:50AM	HAHN N 103	CTE
+17617	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	10:10AM	12:00PM	HAHN N 103	CTE
+17618	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	4:00PM	5:15PM	HAHN N 130	CTE
+				* Additional Times *			W	1:25PM	2:15PM	ROB 112	
+17619	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	4:00PM	5:15PM	HAHN N 130	CTE
+				* Additional Times *			F	1:25PM	2:15PM	ROB 101	
+17620	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	4:00PM	5:15PM	HAHN N 130	CTE
+				* Additional Times *			M	12:20PM	1:10PM	ROB 101	
+17621	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	6:50PM	8:40PM	HAHN N 103	CTE
+17622	PHYS-2306	Foundations of Physics I	B	0	0	TR Merritt	M	8:00AM	9:50AM	HAHN N 103	CTE
+17623	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	2:30PM	3:45PM	HAHN N 130	CTE
+				* Additional Times *			W	12:20PM	1:10PM	DER 1076	
+17624	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	12:20PM	2:10PM	HAHN N 103	CTE
+17625	PHYS-2306	Foundations of Physics I	L	4	20	AL Robinson	M W F	9:05AM	9:55AM	LIBR 100S	CTE
+				* Additional Times *			R	2:00PM	2:50PM	PAM 2001	
+17626	PHYS-2306	Foundations of Physics I	L	4	20	AL Robinson	M W F	9:05AM	9:55AM	LIBR 100S	CTE
+				* Additional Times *			R	2:00PM	2:50PM	PAM 1002	
+17627	PHYS-2306	Foundations of Physics I	L	4	20	AL Robinson	M W F	9:05AM	9:55AM	LIBR 100S	CTE
+				* Additional Times *			R	2:00PM	2:50PM	PAM 1010	
+17628	PHYS-2306	Foundations of Physics I	L	4	20	JH Simonetti	M W F	9:05AM	9:55AM	DER 3076	CTE
+				* Additional Times *			R	2:00PM	2:50PM	PAM 2028	
+17629	PHYS-2306	Foundations of Physics I	L	4	20	JH Simonetti	M W F	9:05AM	9:55AM	DER 3076	CTE
+				* Additional Times *			R	2:00PM	2:50PM	PAM 1008	
+17630	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	6:50PM	8:40PM	HAHN N 103	CTE
+17631	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	4:40PM	6:30PM	HAHN N 103	CTE
+17632	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	12:20PM	2:10PM	HAHN N 103	CTE
+17633	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	2:30PM	4:20PM	HAHN N 103	CTE
+17634	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	4:40PM	6:30PM	HAHN N 103	CTE
+17635	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	6:50PM	8:40PM	HAHN N 103	CTE
+17636	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	8:00AM	9:50AM	HAHN N 103	CTE
+17637	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	10:10AM	12:00PM	HAHN N 103	CTE
+17638	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	12:20PM	2:10PM	HAHN N 103	CTE
+17639	PHYS-2306	Foundations of Physics I	B	0	0	TR Merritt	M	6:50PM	8:40PM	HAHN N 103	CTE
+17640	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	2:30PM	4:20PM	HAHN N 103	CTE
+17641	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	10:10AM	12:00PM	HAHN N 103	CTE
+17642	PHYS-2306	Foundations of Physics I	B	0	0	TR Merritt	T	8:00AM	9:50AM	HAHN N 103	CTE
+17643	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	4:00PM	5:15PM	HAHN N 130	CTE
+				* Additional Times *			W	12:20PM	1:10PM	ROB 112	
+17644	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	2:30PM	3:45PM	HAHN N 130	CTE
+				* Additional Times *			F	9:05AM	9:55AM	ROB 112	
+17645	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	5:30PM	6:45PM	HAHN N 130	CTE
+				* Additional Times *			F	9:05AM	9:55AM	ROB 101	
+17646	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	5:30PM	6:45PM	HAHN N 130	CTE
+				* Additional Times *			F	10:10AM	11:00AM	ROB 101	
+17647	PHYS-2306	Foundations of Physics I	B	0	0	TR Merritt	M	2:30PM	4:20PM	HAHN N 103	CTE
+17648	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	12:20PM	2:10PM	HAHN N 103	CTE
+17649	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	M	10:10AM	12:00PM	HAHN N 103	CTE
+17650	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	4:40PM	6:30PM	HAHN N 103	CTE
+17651	PHYS-2306	Foundations of Physics I	B	0	0	TR Merritt	M	4:40PM	6:30PM	HAHN N 103	CTE
+17652	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	5:30PM	6:45PM	HAHN N 130	CTE
+				* Additional Times *			F	8:00AM	8:50AM	ROB 101	
+17653	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	5:30PM	6:45PM	HAHN N 130	CTE
+				* Additional Times *			F	11:15AM	12:05PM	ROB 101	
+17654	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	2:30PM	3:45PM	HAHN N 130	CTE
+				* Additional Times *			F	11:15AM	12:05PM	ROB 112	
+17655	PHYS-2306	Foundations of Physics I	L	4	45	A Khan	M W	2:30PM	3:45PM	HAHN N 130	CTE
+				* Additional Times *			F	12:20PM	1:10PM	ROB 112	
+17656	PHYS-2306	Foundations of Physics I	B	0	36	TR Merritt	T	2:30PM	4:20PM	HAHN N 103	CTE
+18862	PHYS-2306	Foundations of Physics I	B	0	0	TR Merritt	W	8:00AM	9:50AM	HAHN N 103	CTE
+18863	PHYS-2306	Foundations of Physics I	B	0	0	TR Merritt	W	8:00AM	9:50AM	HAHN N 103	CTE
+18970	PHYS-2306	Foundations of Physics I	L	4	20	JH Simonetti	M W F	9:05AM	9:55AM	DER 3076	CTE
+				* Additional Times *			R	2:00PM	2:50PM	PAM 2002	

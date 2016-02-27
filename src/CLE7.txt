@@ -1,0 +1,150 @@
+CRN	Course	Title	Type	Cr Hrs	Capacity	Instructor	Days	Begin	End	Location	Exam
+10065	AAEC-2464	Religion and Science	L	3	40	MR Goodrum	M W F	11:15AM	12:05PM	MCB 226	11M
+10071	AAEC-3314	Environmental Law	L	3	150	LL Geyer	T R	9:30AM	10:45AM	GOODW 190	09T
+10072	AAEC-3314	Environmental Law	L	3	48	LL Geyer	T R	8:00AM	9:15AM	GOODW 155	08T
+10241	AFST-1814	Intro to African Studies	L	3	40	O Agozino	M W	4:00PM	5:15PM	MCB 218	16M
+10242	AFST-1814	Intro to African Studies	L	3	100	PS Polanah	T R	11:00AM	12:15PM	HOLD AUD	11T
+10284	AHRM-4604	Housing: Energy & Environment	L	3	75	KR Parrott	T R	9:30AM	10:45AM	SAUND 409	09T
+11610	CEE-3104	Intro Environ Engr	L	3	65	AM Dietrich	M W F	10:10AM	11:00AM	TORG 1060	10M
+11611	CEE-3104	Intro Environ Engr	L	3	40	WJ Rhoads	T R	11:00AM	12:15PM	PAT 207	11T
+11612	CEE-3104	Intro Environ Engr	L	3	42	SS Cox	M W F	9:05AM	9:55AM	ROB 103	09M
+11613	CEE-3104	Intro Environ Engr	L	3	40	R David	T R	3:30PM	4:45PM	PAT 215	15T
+11663	CEE-4554	Natural Disasters	L	3	55	M Mauldon	M W	4:00PM	5:15PM	SURGE 104A	16M
+12443	COMM-3204	Multicultural Communication	L	3	35	KK Dhillon	T R	9:30AM	10:45AM	MCB 302	09T
+12444	COMM-3204	Multicultural Communication	L	3	35	KK Dhillon	T R	2:00PM	3:15PM	RAND 110	14T
+19502	COMM-3204	Multicultural Communication	L	3	35	AM Puckett	T R	12:30PM	1:45PM	WLH 335	12T
+19954	COMM-3204	Multicultural Communication	L	3	35	JN Sanchez	T R	12:30PM	1:45PM	RAND 220	12T
+12608	CSES-3444	World Crops & Systems	L	3	20	AO Abaye	M W	10:10AM	11:00AM	SEITZ 313	10M
+				* Additional Times *			M	2:00PM	3:45PM	WAL 405	
+12609	CSES-3444	World Crops & Systems	L	3	20	AO Abaye	M	4:00PM	6:00PM	WAL 405	16M
+				* Additional Times *			M W	10:10AM	11:00AM	SEITZ 313	
+12610	CSES-3444	World Crops & Systems	L	3	20	AO Abaye	M W	10:10AM	11:00AM	SEITZ 313	10M
+				* Additional Times *			M	12:00PM	2:00PM	WAL 405	
+13756	ENGL-1644	Intro to World Literature	L	3	80	J Harvill	M W F	11:15AM	12:05PM	MCB 113	11M
+18875	ENGL-1644	Intro to World Literature	L	3	80	J Harvill	M W	2:30PM	3:45PM	MCB 129	14M
+13796	ENGL-3534	Literature and Ecology	L	3	22	MD Moore	T R	11:00AM	12:15PM	MCB 209	11T
+18898	ENGL-3644	The Postcolonial Novel	L	3	28	GE Chandler-Smith	T R	11:00AM	12:15PM	MCB 210	11T
+13924	ENT-2004	Insects and Human Society	ONLINE	3	700	SW Hiner	(ARR)	----- (ARR) -----		TBA	00X
+14055	FIN-4144	Int Fin Mgt	L	3	45	VA Bonomo	T R	9:30AM	10:45AM	DER 1076	09T
+14056	FIN-4144	Int Fin Mgt	L	3	35	DM Patterson	M W	4:00PM	5:15PM	PAM 1010	16M
+19822	FIN-4144	Int Fin Mgt	L	3	40	M Tepe	M W	2:30PM	3:45PM	ROB 122	14M
+14136	FOR-2124	"Forest, Society & Climate"	L	3	80	VA Thomas	T R	11:00AM	12:15PM	JCH 317BC	11T
+14252	GEOG-1014	World Regions	ONLINE	3	2250	JD Boyer	(ARR)	----- (ARR) -----		TBA	00X
+14257	GEOG-2034	Geography of Global Conflict	L	3	35	KL Stiles	T	5:00PM	7:50PM	WLH 335	17T
+14259	GEOG-2054	Introduction to World Politics	L	3	100	CI Thomas	M W F	9:05AM	9:55AM	SURGE 104D	09M
+20223	GEOG-2054	Introduction to World Politics	L	3	40	RC Briggs	T R	3:30PM	4:45PM	HUTCH 209	15T
+14277	GEOG-3104	Environ Prob Pop Dev	L	3	40	L Juran	T R	11:00AM	12:15PM	MCB 136	11T
+14309	GEOS-1024	Resources Geology	L	3	300	L Fedele	M W	2:30PM	3:45PM	MCB 100	14M
+14310	GEOS-1024	Resources Geology	L	3	99	JA Chermak	T R	8:00AM	9:15AM	HAHN N 140	08T
+14311	GEOS-1024	Resources Geology	L	3	255	JA Chermak	T R	12:30PM	1:45PM	MCB 100	12T
+14485	HD-2314	Human Sexuality	L	3	125	C Kaestle	T R	2:00PM	3:15PM	LITRV 1870	14T
+14487	HD-2314	Human Sexuality	L	3	49	MM Murray	T R	11:00AM	12:15PM	SURGE 103A	11T
+14488	HD-2314	Human Sexuality	L	3	49	MR Nedela	M W F	11:15AM	12:05PM	WAL 234	11M
+14489	HD-2314	Human Sexuality	ONLINE	3	80	V Blanchard	(ARR)	----- (ARR) -----		TBA	00X
+14490	HD-2314	Human Sexuality	ONLINE	3	80	SM Steelman	(ARR)	----- (ARR) -----		TBA	00X
+14491	HD-2314	Human Sexuality	ONLINE	3	80	V Blanchard	(ARR)	----- (ARR) -----		TBA	00X
+18792	HD-2314	Human Sexuality	L	3	80	V Blanchard	T R	12:30PM	1:45PM	GYM 124	12T
+14560	HIST-1214	History of the Modern World	L	3	40	JD Grow	M W F	10:10AM	11:00AM	WLH 335	10M
+14561	HIST-1214	History of the Modern World	L	3	40	RF Callebert	T R	3:30PM	4:45PM	MCB 218	15T
+14562	HIST-1214	History of the Modern World	L	3	28	EC Jamison	M W	4:00PM	5:15PM	MCB 212	16M
+19758	HIST-1215	Intro to World History	L	3	40	DJ Felt	T R	12:30PM	1:45PM	WLH 345	12T
+14566	HIST-2054	Engineering Cultures	ONLINE	3	40	P Shih	(ARR)	----- (ARR) -----		TBA	00X
+14567	HIST-2054	Engineering Cultures	ONLINE	3	40	CR de Souza	(ARR)	----- (ARR) -----		TBA	00X
+14568	HIST-2054	Engineering Cultures	ONLINE	3	40	BE Whiteley	(ARR)	----- (ARR) -----		TBA	00X
+20443	HIST-2054	Engineering Cultures	L	3	40	AK Phillips	M W	2:30PM	3:45PM	GBJ 104	14M
+19779	HIST-2124	Issues in World History	L	3	35	DR Hidalgo	T R	3:30PM	4:45PM	MCB 204	15T
+18989	HIST-3554	Age of Globalization	L	3	40	RF Callebert	T R	2:00PM	3:15PM	MCB 226	14T
+14705	HORT-2184	Plants Places Culture Globally	L	3	65	AX Niemiera	T R	12:30PM	1:45PM	SEITZ 300	12T
+14746	HTM-2454	Travel & Tourism Management	ONLINE	3	225	WG Knollenberg	(ARR)	----- (ARR) -----		TBA	00X
+14747	HTM-2454	Travel & Tourism Management	ONLINE	3	225	WG Knollenberg	(ARR)	----- (ARR) -----		TBA	00X
+14748	HTM-2454	Travel & Tourism Management	ONLINE	3	225	Z Xiang	(ARR)	----- (ARR) -----		TBA	00X
+14814	HUM-3204	Multicultural Communication	L	3	35	KK Dhillon	T R	2:00PM	3:15PM	RAND 110	14T
+14815	HUM-3204	Multicultural Communication	L	3	35	KK Dhillon	T R	9:30AM	10:45AM	MCB 302	09T
+19500	HUM-3204	Multicultural Communication	L	3	35	AM Puckett	T R	12:30PM	1:45PM	WLH 335	12T
+19955	HUM-3204	Multicultural Communication	L	3	35	JN Sanchez	T R	12:30PM	1:45PM	RAND 220	12T
+19985	IS-1004	Nations and Nationalities	L	3	100	CI Thomas	M W	2:30PM	3:45PM	PAM 30	14M
+20197	IS-1004	Nations and Nationalities	L	3	40	TA Clott	T R	5:00PM	6:15PM	RAND 331	17T
+14858	IS-2034	Geography of Global Conflict	L	3	35	KL Stiles	T	5:00PM	7:50PM	WLH 335	17T
+14859	IS-2054	Introduction to World Politics	L	3	100	CI Thomas	M W F	9:05AM	9:55AM	SURGE 104D	09M
+20222	IS-2054	Introduction to World Politics	L	3	40	RC Briggs	T R	3:30PM	4:45PM	HUTCH 209	15T
+14861	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	AA 109	
+14862	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	AA 109	
+14863	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	AA 109	
+14864	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	ROB 112	
+14865	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 219	
+14866	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MAJWM 434	
+14867	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	PAT 305	
+14869	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 322	
+14870	IS-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	GYM 126	
+14938	ISE-4304	Global Issues Ind Mgt	L	3	65	A Salado Diez	M W	2:30PM	3:45PM	SURGE 118B	14M
+20353	ISE-4304	Global Issues Ind Mgt	L	3	15	A Salado Diez	M W	2:30PM	3:45PM	SURGE 118B	14M
+16861	MKTG-4704	International Marketing	L	3	40	TW Reilly	T R	3:30PM	4:45PM	PAM 3010	15T
+16862	MKTG-4704	International Marketing	L	3	50	MJ Sirgy	T R	11:00AM	12:15PM	GBJ 100	11T
+16863	MKTG-4704	International Marketing	L	3	0	Staff	(ARR)	----- (ARR) -----		TBA	00X
+16905	MN-2104	Seapower and Maritime Affairs	L	3	35	CM Fearon	M W F	10:10AM	11:00AM	MIL 207	10M
+				* Additional Times *			T	3:30PM	4:45PM	GLCDB 64	
+16906	MN-2104	Seapower and Maritime Affairs	L	3	40	LA DePrisco	M W F	8:00AM	8:50AM	MIL 207	08M
+				* Additional Times *			T	3:30PM	4:45PM	GLCDB 64	
+16907	MN-2104	Seapower and Maritime Affairs	L	3	35	LA DePrisco	M W F	9:05AM	9:55AM	MIL 207	09M
+				* Additional Times *			T	3:30PM	4:45PM	GLCDB 64	
+17415	PHIL-2304	Global Ethics	L	3	40	HR Wildman Short	M W	2:30PM	3:45PM	WLH 345	14M
+17416	PHIL-2304	Global Ethics	L	3	40	C D'amato	M W	5:30PM	6:45PM	TORG 1040	17M
+17417	PHIL-2304	Global Ethics	L	3	40	HR Wildman Short	T R	12:30PM	1:45PM	PAM 1008	12T
+17418	PHIL-2304	Global Ethics	L	3	40	HR Wildman Short	M W	4:00PM	5:15PM	MCB 230	16M
+17419	PHIL-2304	Global Ethics	L	3	40	MR Schwartz	M W F	10:10AM	11:00AM	PAM 3001	10M
+17420	PHIL-2304	Global Ethics	L	3	40	MS Zarella	T R	11:00AM	12:15PM	MCB 318	11T
+17421	PHIL-2304	Global Ethics	L	3	35	DM Jackson	T R	12:30PM	1:45PM	MAJWM 434	12T
+17422	PHIL-2304	Global Ethics	ONLINE	3	100	GB Mcgee	(ARR)	----- (ARR) -----		TBA	00X
+17853	PPWS-2004	Mysterious Mushrooms & Molds	L	3	144	DG Schmale	M W F	1:25PM	2:15PM	WHIT 300	13M
+17890	PSCI-1004	Nations and Nationalities	L	3	100	CI Thomas	M W	2:30PM	3:45PM	PAM 30	14M
+20196	PSCI-1004	Nations and Nationalities	L	3	40	TA Clott	T R	5:00PM	6:15PM	RAND 331	17T
+17893	PSCI-1024	Comp Gov & Politics	L	3	360	CL Taylor	T R	2:00PM	3:15PM	SQUIR COLNL	14T
+17899	PSCI-2034	Geography of Global Conflict	L	3	35	KL Stiles	T	5:00PM	7:50PM	WLH 335	17T
+17901	PSCI-2054	Introduction to World Politics	L	3	100	CI Thomas	M W F	9:05AM	9:55AM	SURGE 104D	09M
+20221	PSCI-2054	Introduction to World Politics	L	3	40	RC Briggs	T R	3:30PM	4:45PM	HUTCH 209	15T
+17902	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	GYM 126	
+17903	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 322	
+17904	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 219	
+17905	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	AA 109	
+17906	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	11:15AM	12:05PM	MAJWM 434	
+17908	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	PAT 305	
+17909	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	12:20PM	1:10PM	AA 109	
+17910	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	ROB 112	
+17911	PSCI-2064	Global Econ and World Politics	L	3	30	SG Nelson	M W	11:15AM	12:05PM	TORG 2150	11M
+				* Additional Times *			F	10:10AM	11:00AM	AA 109	
+18993	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	RS Soni	M W F	10:10AM	11:00AM	RAND 220	10M
+18994	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	RS Soni	M W F	1:25PM	2:15PM	RAND 220	13M
+18995	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	KH Cross	T R	2:00PM	3:15PM	RAND 121	14T
+18996	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	82	BM Britt	T R	11:00AM	12:15PM	PAM 2030	11T
+20023	RLCL-1024	"Judaism, Chrisitianity, Islam"	L	3	35	M Brandl	M W	2:30PM	3:45PM	RAND 220	14M
+18114	RLCL-2464	Religion and Science	L	3	40	MR Goodrum	M W F	11:15AM	12:05PM	MCB 226	11M
+18119	RLCL-3204	Multicultural Communication	L	3	35	KK Dhillon	T R	9:30AM	10:45AM	MCB 302	09T
+18120	RLCL-3204	Multicultural Communication	L	3	35	KK Dhillon	T R	2:00PM	3:15PM	RAND 110	14T
+19501	RLCL-3204	Multicultural Communication	L	3	35	AM Puckett	T R	12:30PM	1:45PM	WLH 335	12T
+19956	RLCL-3204	Multicultural Communication	L	3	35	JN Sanchez	T R	12:30PM	1:45PM	RAND 220	12T
+18978	SOC-3504	Population Trends and Issues	ONLINE	3	60	TD Fuller	(ARR)	----- (ARR) -----		TBA	00X
+18377	STS-2054	Engineering Cultures	L	3	40	AK Phillips	M W	2:30PM	3:45PM	GBJ 104	14M
+18378	STS-2054	Engineering Cultures	ONLINE	3	40	CR de Souza	(ARR)	----- (ARR) -----		TBA	00X
+18379	STS-2054	Engineering Cultures	ONLINE	3	40	P Shih	(ARR)	----- (ARR) -----		TBA	00X
+18380	STS-2054	Engineering Cultures	ONLINE	3	40	BE Whiteley	(ARR)	----- (ARR) -----		TBA	00X
+18381	STS-2464	Religion and Science	L	3	40	MR Goodrum	M W F	11:15AM	12:05PM	MCB 226	11M
+19030	STS-3334	Energy and Society	L	3	40	D Breslau	T R	9:30AM	10:45AM	RAND 116	09T
+18510	UAP-3344	Global Environ Issues	L	3	40	TL Filbert	M W	4:00PM	5:15PM	SMYTH 232	16M
+19892	UAP-4214	"Women, Environ & Development"	L	3	30	ME Christie	M W	4:00PM	5:15PM	MCB 136	16M

@@ -1,0 +1,144 @@
+CRN	Course	Title	Type	Cr Hrs	Capacity	Instructor	Days	Begin	End	Location	Exam
+12481	CS-1044	Intro Prog in C	L	3	175	HM Monti	T R	5:00PM	6:15PM	TORG 2150	CTE
+12482	CS-1044	Intro Prog in C	L	3	175	HM Monti	M W	5:30PM	6:45PM	TORG 2150	CTE
+15229	MASC-1044	"Comp Sci, Lib Arts"	L	3	35	ND Barnette	M W	4:00PM	5:15PM	HOLD 212	16M
+15230	MATH-1014	Precalc With Transcendental	L	3	80	J Clemons	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15231	MATH-1014	Precalc With Transcendental	L	3	80	J Clemons	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15232	MATH-1014	Precalc With Transcendental	L	3	80	J Clemons	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15233	MATH-1014	Precalc With Transcendental	ONLINE	3	30	J Clemons	(ARR)	----- (ARR) -----		TBA	EE
+19378	MATH-1014	Precalc With Transcendental	L	3	0	D Agud	M T W R F	10:10AM	11:00AM	MCB 240	EE
+15234	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15235	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15236	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15237	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15238	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15239	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15240	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15241	MATH-1025	Elementary Calculus	L	3	0	D Agud	M T W R F	11:15AM	12:05PM	MCB 240	EE
+15242	MATH-1025	Elementary Calculus	L	3	0	SG Anderson	M T W R F	9:05AM	9:55AM	MCB 240	EE
+15243	MATH-1025	Elementary Calculus	L	3	80	CA Stephens	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15245	MATH-1025	Elementary Calculus	ONLINE	3	30	CA Stephens	(ARR)	----- (ARR) -----		TBA	EE
+15246	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	2:30PM	3:45PM	EMPOR 100	EE
+15247	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	4:30PM	5:45PM	EMPOR 100	EE
+15248	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	5:30PM	6:45PM	EMPOR 100	EE
+15249	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	8:30AM	9:45AM	EMPOR 100	EE
+15250	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	3:30PM	4:45PM	EMPOR 100	EE
+15251	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	10:30AM	11:45AM	EMPOR 100	EE
+15252	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	11:30AM	12:45PM	EMPOR 100	EE
+15253	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	12:30PM	1:45PM	EMPOR 100	EE
+15254	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	1:30PM	2:45PM	EMPOR 100	EE
+15255	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	9:30AM	10:45AM	EMPOR 100	EE
+20270	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	6:30PM	7:45PM	EMPOR 100	EE
+20360	MATH-1026	Elementary Calculus	L	3	52	CA Stephens	T	7:30PM	8:45PM	EMPOR 100	EE
+15265	MATH-1225	Calculus of a Single Variable	L	4	10	E Jasso-Hernandez	M W F	12:20PM	1:10PM	RAND 208	CTE
+				* Additional Times *			T	12:30PM	1:20PM	TORG 1020	
+15266	MATH-1225	Calculus of a Single Variable	L	4	10	ND Phillips	M W F	1:25PM	2:15PM	PAT 207	CTE
+				* Additional Times *			T	12:30PM	1:20PM	HUTCH 204	
+15267	MATH-1225	Calculus of a Single Variable	L	4	24	X Xie	M W R F	8:00AM	8:50AM	MCB 231	CTE
+15268	MATH-1225	Calculus of a Single Variable	L	4	19	K Moon	M W F	10:10AM	11:00AM	HUTCH 409	CTE
+				* Additional Times *			R	9:30AM	10:20AM	MCB 210	
+15269	MATH-1225	Calculus of a Single Variable	L	4	10	SV Eastridge	M W F	11:15AM	12:05PM	GOODW 135	CTE
+				* Additional Times *			T	11:00AM	11:50AM	GOODW 135	
+15270	MATH-1225	Calculus of a Single Variable	L	4	10	J Cui	M W F	12:20PM	1:10PM	RAND 222	CTE
+				* Additional Times *			R	12:30PM	1:20PM	MCB 321	
+15271	MATH-1225	Calculus of a Single Variable	L	4	10	S Aslan	M W F	9:05AM	9:55AM	MCB 321	CTE
+				* Additional Times *			T	9:30AM	10:20AM	MCB 210	
+19375	MATH-1225	Calculus of a Single Variable	L	4	10	R Guo	M T W F	8:00AM	8:50AM	MCB 230	CTE
+20559	MATH-1225	Calculus of a Single Variable	L	4	0	TM Asfaw	M T W F	8:00AM	8:50AM	MCB 321	CTE
+15272	MATH-1226	Calculus of a Single Variable	L	4	60	RP Nikin-Beers	M W F	12:20PM	1:10PM	WLH 330	CTE
+				* Additional Times *			T	12:30PM	1:20PM	SMYTH 146	
+15273	MATH-1226	Calculus of a Single Variable	L	4	60	DW Munster	M W F	12:20PM	1:10PM	MCB 129	CTE
+				* Additional Times *			T	12:30PM	1:20PM	ENGEL 223	
+15274	MATH-1226	Calculus of a Single Variable	L	4	65	ER Rappold	M W F	9:05AM	9:55AM	SURGE 109	CTE
+				* Additional Times *			T	9:30AM	10:20AM	GOODW 135	
+15275	MATH-1226	Calculus of a Single Variable	L	4	55	MS Kadelka	M W F	8:00AM	8:50AM	WLH 330	CTE
+				* Additional Times *			R	8:00AM	8:50AM	SURGE 103A	
+15276	MATH-1226	Calculus of a Single Variable	L	4	50	S Sariaydin	M W F	1:25PM	2:15PM	GBJ 100	CTE
+				* Additional Times *			R	12:30PM	1:20PM	AA 7	
+15277	MATH-1226	Calculus of a Single Variable	L	4	65	LL Hanks	M W F	11:15AM	12:05PM	GOODW 125	CTE
+				* Additional Times *			R	11:00AM	11:50AM	GOODW 135	
+15278	MATH-1226	Calculus of a Single Variable	L	4	60	CM Withrow	M W F	10:10AM	11:00AM	ROB 105	CTE
+				* Additional Times *			T	9:30AM	10:20AM	SURGE 104D	
+15279	MATH-1226	Calculus of a Single Variable	L	4	40	A Carracedo Rodriguez	M T W R	8:00AM	8:50AM	MCB 307	CTE
+15280	MATH-1226	Calculus of a Single Variable	L	4	50	K Sinani	M W F	9:05AM	9:55AM	DER 3081	CTE
+				* Additional Times *			R	8:00AM	8:50AM	WLH 340	
+15281	MATH-1226	Calculus of a Single Variable	L	4	50	K Swirydowicz	M T W F	8:00AM	8:50AM	WMS 120	CTE
+15282	MATH-1226	Calculus of a Single Variable	L	4	65	ER Rappold	M W F	10:10AM	11:00AM	SURGE 107	CTE
+				* Additional Times *			T	11:00AM	11:50AM	SURGE 109	
+15283	MATH-1226	Calculus of a Single Variable	L	4	58	JM Schmale	M W F	4:00PM	4:50PM	GOODW 145	CTE
+				* Additional Times *			R	3:30PM	4:20PM	SURGE 103A	
+15284	MATH-1226	Calculus of a Single Variable	L	4	65	JM Schmale	M W F	2:30PM	3:20PM	SURGE 118C	CTE
+				* Additional Times *			R	2:00PM	2:50PM	SURGE 103A	
+15285	MATH-1226	Calculus of a Single Variable	L	4	63	S Mason	M W F	11:15AM	12:05PM	WLH 320	CTE
+				* Additional Times *			T	11:00AM	11:50AM	WLH 320	
+15286	MATH-1226	Calculus of a Single Variable	L	4	50	SH Erwin	M W F	9:05AM	9:55AM	TORG 1060	CTE
+				* Additional Times *			T	9:30AM	10:20AM	AA 7	
+15287	MATH-1226	Calculus of a Single Variable	L	4	45	S Yasuda	M W F	4:00PM	4:50PM	HOLD 110	CTE
+				* Additional Times *			T	3:30PM	4:20PM	HOLD 110	
+15288	MATH-1226	Calculus of a Single Variable	L	4	60	G Marx	M W F	2:30PM	3:20PM	TORG 1060	CTE
+				* Additional Times *			T	3:30PM	4:20PM	DURHM 261	
+15289	MATH-1226	Calculus of a Single Variable	L	4	55	ER Chang	M W F	1:25PM	2:15PM	WLH 350	CTE
+				* Additional Times *			T	2:00PM	2:50PM	GBJ 100	
+15290	MATH-1226	Calculus of a Single Variable	L	4	48	MR Lugo	M W F	9:05AM	9:55AM	AA 7	CTE
+				* Additional Times *			R	9:30AM	10:20AM	SURGE 104D	
+15291	MATH-1226	Calculus of a Single Variable	L	4	60	AR Grimm	M W F	1:25PM	2:15PM	MCB 129	CTE
+				* Additional Times *			R	2:00PM	2:50PM	RAND 221	
+15292	MATH-1226	Calculus of a Single Variable	L	4	60	K Karcher	M W F	12:20PM	1:10PM	WLH 350	CTE
+				* Additional Times *			T	12:30PM	1:20PM	GOODW 135	
+19380	MATH-1226	Calculus of a Single Variable	L	4	48	RM Shifler	M W F	1:25PM	2:15PM	AA 7	CTE
+				* Additional Times *			T	2:00PM	2:50PM	DURHM 261	
+19381	MATH-1226	Calculus of a Single Variable	L	4	60	AK Grim-McNally	M W F	10:10AM	11:00AM	SURGE 117A	CTE
+				* Additional Times *			R	9:30AM	10:20AM	SURGE 104C	
+19382	MATH-1226	Calculus of a Single Variable	L	4	45	TJ McIntee	M W F	11:15AM	12:05PM	HOLD 110	CTE
+				* Additional Times *			T	11:00AM	11:50AM	TORG 1040	
+19384	MATH-1226	Calculus of a Single Variable	L	4	60	JT Slagel	M W F	12:20PM	1:10PM	DER 3081	CTE
+				* Additional Times *			R	12:30PM	1:20PM	ENGEL 223	
+20259	MATH-1226	Calculus of a Single Variable	L	4	30	TJ McIntee	M W F	1:25PM	2:15PM	MCB 216	CTE
+				* Additional Times *			T	12:30PM	1:20PM	MCB 321	
+20260	MATH-1226	Calculus of a Single Variable	L	4	35	DM Kim	M W F	10:10AM	11:00AM	MCB 210	CTE
+				* Additional Times *			R	9:30AM	10:20AM	MCB 209	
+15293	MATH-1525	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15294	MATH-1525	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15295	MATH-1526	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15296	MATH-1526	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15297	MATH-1526	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15298	MATH-1526	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15299	MATH-1526	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15300	MATH-1526	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15301	MATH-1526	Calc With Matrices	L	3	140	DB Smith	(ARR)	----- (ARR) -----		EMPOR 100	EE
+20114	MATH-1526	Calc With Matrices	ONLINE	3	30	DB Smith	(ARR)	----- (ARR) -----		TBA	EE
+15302	MATH-1536	Geom & Math of Design	L	3	80	NP Robbins	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15303	MATH-1536	Geom & Math of Design	L	3	80	NP Robbins	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15304	MATH-1536	Geom & Math of Design	L	3	80	NP Robbins	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15305	MATH-1536	Geom & Math of Design	L	3	80	NP Robbins	(ARR)	----- (ARR) -----		EMPOR 100	EE
+15306	MATH-1536	Geom & Math of Design	ONLINE	3	30	NP Robbins	(ARR)	----- (ARR) -----		TBA	EE
+17407	PHIL-1504	Language and Logic	L	3	25	CG Parker	M W	1:25PM	2:15PM	TORG 3100	13M
+				* Additional Times *			F	10:10AM	11:00AM	TORG 1080	
+17408	PHIL-1504	Language and Logic	L	3	25	CG Parker	M W	1:25PM	2:15PM	TORG 3100	13M
+				* Additional Times *			F	10:10AM	11:00AM	PAT 12	
+17409	PHIL-1504	Language and Logic	L	3	25	CG Parker	M W	1:25PM	2:15PM	TORG 3100	13M
+				* Additional Times *			F	12:20PM	1:10PM	TORG 1040	
+17410	PHIL-1504	Language and Logic	L	3	25	CG Parker	M W	1:25PM	2:15PM	TORG 3100	13M
+				* Additional Times *			F	12:20PM	1:10PM	GOODW 241	
+17411	PHIL-1504	Language and Logic	L	3	25	CG Parker	M W	1:25PM	2:15PM	TORG 3100	13M
+				* Additional Times *			F	11:15AM	12:05PM	MCB 202	
+17412	PHIL-1504	Language and Logic	L	3	25	CG Parker	M W	1:25PM	2:15PM	TORG 3100	13M
+				* Additional Times *			F	11:15AM	12:05PM	GOODW 241	
+17437	PHIL-3505	Modern Logic & Dev	L	3	28	T Parent	T R	8:00AM	9:15AM	MCB 204	08T
+18291	STAT-2004	Introductory Statistics	L	3	70	TA Metzger	M W F	10:10AM	11:00AM	SQUIR COLNL	10M
+				* Additional Times *			M	4:00PM	4:50PM	DER 3083	
+18292	STAT-2004	Introductory Statistics	L	3	70	TA Metzger	M W F	10:10AM	11:00AM	SQUIR COLNL	10M
+				* Additional Times *			M	4:00PM	4:50PM	SEITZ 300	
+18294	STAT-2004	Introductory Statistics	L	3	85	TA Metzger	M W F	10:10AM	11:00AM	SQUIR COLNL	10M
+				* Additional Times *			W	4:00PM	4:50PM	SMYTH 146	
+18295	STAT-2004	Introductory Statistics	L	3	60	TA Metzger	M W F	10:10AM	11:00AM	SQUIR COLNL	10M
+				* Additional Times *			T	4:00PM	4:50PM	AA 7	
+18299	STAT-3005	Statistical Methods	L	3	103	S Ranganathan	M W F	1:25PM	2:15PM	SMYTH 146	13M
+18302	STAT-3604	Stat Social Sciences	L	3	130	J Robertson Evia	T R	3:30PM	4:45PM	SMYTH 146	15T
+19354	STAT-3604	Stat Social Sciences	ONLINE	3	90	J Robertson Evia	(ARR)	----- (ARR) -----		TBA	00X
+18303	STAT-3615	Biological Statistics	L	3	60	MJ Zhao	T R	2:00PM	3:15PM	AA 7	14T
+18304	STAT-3615	Biological Statistics	L	3	60	MI El Khouly	M W	2:30PM	3:45PM	SEITZ 313	14M
+18305	STAT-3615	Biological Statistics	L	3	66	Z Jin	T R	9:30AM	10:45AM	ROB 105	09T
+18306	STAT-3615	Biological Statistics	L	3	60	M Tang	M W	2:30PM	3:45PM	SEITZ 300	14M
+18307	STAT-3615	Biological Statistics	L	3	60	Z Gao	T R	2:00PM	3:15PM	SEITZ 313	14T
+18308	STAT-3615	Biological Statistics	L	3	60	HT Tran	M W	5:30PM	6:45PM	SEITZ 313	17M
