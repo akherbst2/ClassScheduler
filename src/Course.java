@@ -8,7 +8,8 @@ import java.util.*;
 */
 public class Course 
 {
-   //
+   //List of available time blocks for this particular class
+   private ArrayList<TimeBlock> timeBlocks;
    private Integer cle;
    private String className;
    private String department;
@@ -19,12 +20,19 @@ public class Course
          ("You must enter parameters for the class");
    }
    
-   public Course(String classdepartment, String course)
+   public Course(String classDepartment, String course)
    {
       cle = 0;
       className = course;
-      department = classdepartment;
+      department = classDepartment;
+      timeBlocks = new ArrayList<TimeBlock>();
+   }
    
+   public Course(String department, String className, Integer cle) {
+      this.department = department;
+      this.className = className;
+      this.cle = cle;   
+      timeBlocks = new ArrayList<TimeBlock>();
    }
    
    public Integer getCLE() {
@@ -42,7 +50,5 @@ public class Course
    public String getDepartment() {
       return department;
    }
-    
-   
    
 }
