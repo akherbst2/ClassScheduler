@@ -4,13 +4,20 @@ import java.util.*;
 
 public class ListOfClasses extends ArrayList<Course>
 {
-   public ListOfClasses(String fileName)
+
+
+   public ListOfClasses(String filename)
    {
       super();
+      readFromFile(filename);
+   }
+   
+   
+   public void readFromFile(String filename) {
       Scanner scanner = null;
       try 
       {
-         scanner = new Scanner (new File(fileName));
+         scanner = new Scanner (new File(filename));
       } 
       catch (FileNotFoundException e) 
       {
@@ -30,6 +37,7 @@ public class ListOfClasses extends ArrayList<Course>
          Course course = new Course(department, title);
          this.add(course);
       }
+   
    }
    
 }
