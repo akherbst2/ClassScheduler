@@ -5,6 +5,7 @@ public class Time extends Object implements Comparable {
    int time;
       
    public Time(int t, int k) {
+   //start = 1, end = -1
       key = k;
       //(100,000 * weekday + 60*hr + min)
       time = t;
